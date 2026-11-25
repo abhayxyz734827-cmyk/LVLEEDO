@@ -1,0 +1,1419 @@
+2026-11-25 18:36:10 [info] Start Match Interval: 9.0s
+2026-11-25 18:36:10 [info] Offline Wait: 7.0s (after match found)
+2026-11-25 18:36:10 [info] Non-match Reconnect: 1.0s
+2026-11-25 18:36:10 [info] Cache Invalidation Threshold: 5.0x
+2026-11-25 18:36:10 [info] Parallel Matches: UNLIMITED (background)
+2026-11-25 18:36:10 [info] Cache TTL: 7200s (120 min)
+2026-11-25 18:36:10 [info] Priority Regions: ['IND', 'BD', 'SG', 'TH', 'PH', 'VN', 'MY', 'ID', 'HK', 'TW']
+2026-11-25 18:36:10 [info] Device System: 1 ID = 1 Persistent Device ID (data/devices.json)
+2026-11-25 18:36:10 [info] Login Concurrency: 3 (ENV: LOGIN_CONCURRENCY)
+2026-11-25 18:36:10 [success] Web Dashboard live at http://localhost:5417
+2026-11-25 18:36:10 [info] [LOADER] Total accounts loaded: 0 (from 1 file(s))
+2026-11-25 18:36:10 [warning] No accounts found in any accounts*.json file! Add accounts from Web Dashboard.
+2026-11-25 18:36:10 [warning] Open: http://localhost:5417
+2026-11-25 18:36:10 [info] [LAUNCHER] Starting 0 accounts in batches of 20 (delay: 1.2s between batches)
+2026-11-25 18:37:26 [info] [LOADER] Total accounts loaded: 0 (from 1 file(s))
+2026-11-25 18:37:26 [success] Reload complete: 0 blacklisted UIDs cleared, 0 new account(s) started.
+2026-11-25 18:39:19 [success] New account added: 8499189118
+2026-11-25 18:39:19 [info] [LOGIN] Starting login for Guest UID: 8499189118...
+2026-11-25 18:39:19 [info] [LOGIN] Full login for UID 8499189118...
+2026-11-25 18:39:19 [info] [VERSION] Fetching version config (shared for all accounts)...
+2026-11-25 18:39:21 [success] [VERSION] Cached: OB55 / 1.134.21
+2026-11-25 18:39:23 [success] [CACHE] Saved credentials for UID 8499189118
+2026-11-25 18:39:23 [success] [🔥 MEHEDI] TCP GW #1 Connected | live=0/10 | 202.181.79.132:39699
+2026-11-25 18:39:26 [info] [🔥 MEHEDI] Match START #1 sent | live=0/10 | UID 19249905414
+2026-11-25 18:39:30 [warning] [🔥 MEHEDI] Error (19249905414): Server closed TCP
+2026-11-25 18:39:32 [success] [🔥 MEHEDI] TCP GW #2 Connected | live=0/10 | 202.181.79.132:39699
+2026-11-25 18:39:35 [info] [🔥 MEHEDI] Match START #2 sent | live=0/10 | UID 19249905414
+2026-11-25 18:39:43 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #2 → UDP join | match 2125577676854142976 | 103.219.202.166:10017 | UID 19249905414
+2026-11-25 18:39:43 [info] [🔥 MEHEDI] TCP GW #2 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:39:43 [info] [🔥 MEHEDI] UDP #2 started | live=1 | UID 19249905414
+2026-11-25 18:39:44 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.219.202.166:10017
+2026-11-25 18:39:52 [success] [🔥 MEHEDI] TCP GW #3 Connected | live=1/10 | 202.181.79.132:39699
+2026-11-25 18:39:55 [info] [🔥 MEHEDI] Match START #3 sent | live=1/10 | UID 19249905414
+2026-11-25 18:40:24 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:40:32 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #3 → UDP join | match 2125577882211454976 | 103.123.54.252:10015 | UID 19249905414
+2026-11-25 18:40:32 [info] [🔥 MEHEDI] TCP GW #3 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:40:32 [info] [🔥 MEHEDI] UDP #3 started | live=2 | UID 19249905414
+2026-11-25 18:40:33 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.123.54.252:10015
+2026-11-25 18:40:41 [success] [🔥 MEHEDI] TCP GW #4 Connected | live=2/10 | 202.181.79.132:39699
+2026-11-25 18:40:44 [info] [🔥 MEHEDI] Match START #4 sent | live=2/10 | UID 19249905414
+2026-11-25 18:40:52 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #4 → UDP join | match 2125577966101729280 | 103.16.34.123:10016 | UID 19249905414
+2026-11-25 18:40:52 [info] [🔥 MEHEDI] TCP GW #4 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:40:52 [info] [🔥 MEHEDI] UDP #4 started | live=3 | UID 19249905414
+2026-11-25 18:40:53 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.16.34.123:10016
+2026-11-25 18:41:03 [success] [🔥 MEHEDI] TCP GW #5 Connected | live=3/10 | 202.181.79.132:39699
+2026-11-25 18:41:06 [info] [🔥 MEHEDI] Match START #5 sent | live=3/10 | UID 19249905414
+2026-11-25 18:41:24 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:41:25 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #5 → UDP join | match 2125578102911522817 | 103.219.203.44:10016 | UID 19249905414
+2026-11-25 18:41:25 [info] [🔥 MEHEDI] TCP GW #5 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:41:25 [info] [🔥 MEHEDI] UDP #5 started | live=4 | UID 19249905414
+2026-11-25 18:41:25 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.219.203.44:10016
+2026-11-25 18:41:36 [success] [🔥 MEHEDI] TCP GW #6 Connected | live=4/10 | 202.181.79.132:39699
+2026-11-25 18:41:39 [info] [🔥 MEHEDI] Match START #6 sent | live=4/10 | UID 19249905414
+2026-11-25 18:42:17 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #6 → UDP join | match 2125578322592407555 | 103.219.200.36:10015 | UID 19249905414
+2026-11-25 18:42:17 [info] [🔥 MEHEDI] TCP GW #6 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:42:17 [info] [🔥 MEHEDI] UDP #6 started | live=5 | UID 19249905414
+2026-11-25 18:42:18 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.219.200.36:10015
+2026-11-25 18:42:24 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:42:25 [success] [🔥 MEHEDI] TCP GW #7 Connected | live=5/10 | 202.181.79.132:39699
+2026-11-25 18:42:28 [info] [🔥 MEHEDI] Match START #7 sent | live=5/10 | UID 19249905414
+2026-11-25 18:42:55 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #7 → UDP join | match 2125578480314802177 | 103.219.203.53:10016 | UID 19249905414
+2026-11-25 18:42:55 [info] [🔥 MEHEDI] TCP GW #7 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:42:55 [info] [🔥 MEHEDI] UDP #7 started | live=6 | UID 19249905414
+2026-11-25 18:42:55 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.219.203.53:10016
+2026-11-25 18:43:05 [success] [🔥 MEHEDI] TCP GW #8 Connected | live=6/10 | 202.181.79.132:39699
+2026-11-25 18:43:08 [info] [🔥 MEHEDI] Match START #8 sent | live=6/10 | UID 19249905414
+2026-11-25 18:43:25 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:44:13 [warning] [🔥 MEHEDI] Error (19249905414): [Errno 103] Software caused connection abort
+2026-11-25 18:44:15 [success] [🔥 MEHEDI] TCP GW #9 Connected | live=6/10 | 202.181.79.132:39699
+2026-11-25 18:44:18 [info] [🔥 MEHEDI] Match START #9 sent | live=6/10 | UID 19249905414
+2026-11-25 18:44:25 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:44:37 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #9 → UDP join | match 2125578909803356160 | 103.219.200.97:10016 | UID 19249905414
+2026-11-25 18:44:37 [info] [🔥 MEHEDI] TCP GW #9 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:44:37 [info] [🔥 MEHEDI] UDP #9 started | live=7 | UID 19249905414
+2026-11-25 18:44:37 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.219.200.97:10016
+2026-11-25 18:44:47 [success] [🔥 MEHEDI] TCP GW #10 Connected | live=7/10 | 202.181.79.132:39699
+2026-11-25 18:44:50 [info] [🔥 MEHEDI] Match START #10 sent | live=7/10 | UID 19249905414
+2026-11-25 18:45:25 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:45:46 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #10 → UDP join | match 2125579198564403251 | 103.16.34.100:10017 | UID 19249905414
+2026-11-25 18:45:46 [info] [🔥 MEHEDI] TCP GW #10 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:45:46 [info] [🔥 MEHEDI] UDP #10 started | live=8 | UID 19249905414
+2026-11-25 18:45:46 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.16.34.100:10017
+2026-11-25 18:45:57 [success] [🔥 MEHEDI] TCP GW #11 Connected | live=8/10 | 202.181.79.132:39699
+2026-11-25 18:46:00 [info] [🔥 MEHEDI] Match START #11 sent | live=8/10 | UID 19249905414
+2026-11-25 18:46:10 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #11 → UDP join | match 2125579298208276484 | 103.219.203.13:10016 | UID 19249905414
+2026-11-25 18:46:10 [info] [🔥 MEHEDI] TCP GW #11 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:46:10 [info] [🔥 MEHEDI] UDP #11 started | live=9 | UID 19249905414
+2026-11-25 18:46:10 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.219.203.13:10016
+2026-11-25 18:46:22 [success] [🔥 MEHEDI] TCP GW #12 Connected | live=9/10 | 202.181.79.132:39699
+2026-11-25 18:46:25 [info] [🔥 MEHEDI] Match START #12 sent | live=9/10 | UID 19249905414
+2026-11-25 18:46:26 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:46:52 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #12 → UDP join | match 2125579476034396160 | 103.16.32.219:10016 | UID 19249905414
+2026-11-25 18:46:52 [info] [🔥 MEHEDI] TCP GW #12 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:46:52 [info] [🔥 MEHEDI] UDP #12 started | live=10 | UID 19249905414
+2026-11-25 18:46:52 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.16.32.219:10016
+2026-11-25 18:47:02 [info] [🔥 MEHEDI] Cap 10 reached (live=10) — waiting for slot | UID 19249905414
+2026-11-25 18:47:26 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:48:26 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:49:02 [info] [🔥 MEHEDI] Cap 10 reached (live=10) — waiting for slot | UID 19249905414
+2026-11-25 18:49:27 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:50:27 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:51:02 [info] [🔥 MEHEDI] Cap 10 reached (live=10) — waiting for slot | UID 19249905414
+2026-11-25 18:51:27 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:52:28 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:53:02 [info] [🔥 MEHEDI] Cap 10 reached (live=10) — waiting for slot | UID 19249905414
+2026-11-25 18:53:28 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:54:28 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:54:44 [info] [🔥 MEHEDI] UDP #2 done | live remaining=9 | UID 19249905414
+2026-11-25 18:54:44 [info] Account ROBISTY9Rqf2 finished Match #1
+2026-11-25 18:54:44 [success] [🔥 MEHEDI] TCP GW #13 Connected | live=9/10 | 202.181.79.132:39699
+2026-11-25 18:54:44 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:54:47 [info] [🔥 MEHEDI] Match START #13 sent | live=9/10 | UID 19249905414
+2026-11-25 18:54:56 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #13 → UDP join | match 2125581504559167488 | 103.219.202.173:10018 | UID 19249905414
+2026-11-25 18:54:56 [info] [🔥 MEHEDI] TCP GW #13 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:54:56 [info] [🔥 MEHEDI] UDP #13 started | live=10 | UID 19249905414
+2026-11-25 18:54:56 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.219.202.173:10018
+2026-11-25 18:55:04 [info] [🔥 MEHEDI] Cap 10 reached (live=10) — waiting for slot | UID 19249905414
+2026-11-25 18:55:28 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:55:33 [info] [🔥 MEHEDI] UDP #3 done | live remaining=9 | UID 19249905414
+2026-11-25 18:55:33 [info] Account ROBISTY9Rqf2 finished Match #2
+2026-11-25 18:55:33 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:55:33 [success] [🔥 MEHEDI] TCP GW #14 Connected | live=9/10 | 202.181.79.132:39699
+2026-11-25 18:55:36 [info] [🔥 MEHEDI] Match START #14 sent | live=9/10 | UID 19249905414
+2026-11-25 18:55:53 [info] [🔥 MEHEDI] UDP #4 done | live remaining=8 | UID 19249905414
+2026-11-25 18:55:53 [info] Account ROBISTY9Rqf2 finished Match #3
+2026-11-25 18:55:53 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:55:55 [warning] [🔥 MEHEDI] Error (19249905414): [Errno 103] Software caused connection abort
+2026-11-25 18:55:56 [info] [🔥 MEHEDI] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249905414
+2026-11-25 18:55:56 [info] [🔥 MEHEDI] UDP #10 done | live remaining=7 | UID 19249905414
+2026-11-25 18:55:56 [info] Account ROBISTY9Rqf2 finished Match #4
+2026-11-25 18:55:56 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:55:57 [success] [🔥 MEHEDI] TCP GW #15 Connected | live=7/10 | 202.181.79.132:39699
+2026-11-25 18:56:00 [info] [🔥 MEHEDI] Match START #15 sent | live=7/10 | UID 19249905414
+2026-11-25 18:56:26 [info] [🔥 MEHEDI] UDP #5 done | live remaining=6 | UID 19249905414
+2026-11-25 18:56:26 [info] Account ROBISTY9Rqf2 finished Match #5
+2026-11-25 18:56:26 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:56:29 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:56:38 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #15 → UDP join | match 2125581934106257409 | 103.219.200.10:10016 | UID 19249905414
+2026-11-25 18:56:38 [info] [🔥 MEHEDI] TCP GW #15 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:56:38 [info] [🔥 MEHEDI] UDP #15 started | live=7 | UID 19249905414
+2026-11-25 18:56:38 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.219.200.10:10016
+2026-11-25 18:56:49 [success] [🔥 MEHEDI] TCP GW #16 Connected | live=7/10 | 202.181.79.132:39699
+2026-11-25 18:56:52 [info] [🔥 MEHEDI] Match START #16 sent | live=7/10 | UID 19249905414
+2026-11-25 18:57:10 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #16 → UDP join | match 2125582066469888004 | 103.219.201.99:10016 | UID 19249905414
+2026-11-25 18:57:10 [info] [🔥 MEHEDI] TCP GW #16 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:57:10 [info] [🔥 MEHEDI] UDP #16 started | live=8 | UID 19249905414
+2026-11-25 18:57:10 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.219.201.99:10016
+2026-11-25 18:57:18 [info] [🔥 MEHEDI] UDP #6 done | live remaining=7 | UID 19249905414
+2026-11-25 18:57:18 [info] Account ROBISTY9Rqf2 finished Match #6
+2026-11-25 18:57:18 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:57:22 [success] [🔥 MEHEDI] TCP GW #17 Connected | live=7/10 | 202.181.79.132:39699
+2026-11-25 18:57:25 [info] [🔥 MEHEDI] Match START #17 sent | live=7/10 | UID 19249905414
+2026-11-25 18:57:29 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:57:56 [info] [🔥 MEHEDI] UDP #7 done | live remaining=6 | UID 19249905414
+2026-11-25 18:57:56 [info] Account ROBISTY9Rqf2 finished Match #7
+2026-11-25 18:57:56 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:58:05 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #17 → UDP join | match 2125582297156608001 | 103.16.32.74:10018 | UID 19249905414
+2026-11-25 18:58:05 [info] [🔥 MEHEDI] TCP GW #17 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:58:05 [info] [🔥 MEHEDI] UDP #17 started | live=7 | UID 19249905414
+2026-11-25 18:58:05 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.16.32.74:10018
+2026-11-25 18:58:12 [info] [🔥 MEHEDI] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249905414
+2026-11-25 18:58:12 [info] [🔥 MEHEDI] UDP #12 done | live remaining=6 | UID 19249905414
+2026-11-25 18:58:12 [info] Account ROBISTY9Rqf2 finished Match #8
+2026-11-25 18:58:12 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:58:16 [success] [🔥 MEHEDI] TCP GW #18 Connected | live=6/10 | 202.181.79.132:39699
+2026-11-25 18:58:19 [info] [🔥 MEHEDI] Match START #18 sent | live=6/10 | UID 19249905414
+2026-11-25 18:58:29 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:59:09 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #18 → UDP join | match 2125582566313682944 | 103.219.202.168:10016 | UID 19249905414
+2026-11-25 18:59:09 [info] [🔥 MEHEDI] TCP GW #18 closing (UDP running in bg) | UID 19249905414
+2026-11-25 18:59:09 [info] [🔥 MEHEDI] UDP #18 started | live=7 | UID 19249905414
+2026-11-25 18:59:09 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.219.202.168:10016
+2026-11-25 18:59:19 [success] [🔥 MEHEDI] TCP GW #19 Connected | live=7/10 | 202.181.79.132:39699
+2026-11-25 18:59:22 [info] [🔥 MEHEDI] Match START #19 sent | live=7/10 | UID 19249905414
+2026-11-25 18:59:29 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 18:59:38 [info] [🔥 MEHEDI] UDP #9 done | live remaining=6 | UID 19249905414
+2026-11-25 18:59:38 [info] Account ROBISTY9Rqf2 finished Match #9
+2026-11-25 18:59:38 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 19:00:06 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #19 → UDP join | match 2125582805703591936 | 103.219.200.100:10018 | UID 19249905414
+2026-11-25 19:00:06 [info] [🔥 MEHEDI] TCP GW #19 closing (UDP running in bg) | UID 19249905414
+2026-11-25 19:00:06 [info] [🔥 MEHEDI] UDP #19 started | live=7 | UID 19249905414
+2026-11-25 19:00:06 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.219.200.100:10018
+2026-11-25 19:00:16 [success] [🔥 MEHEDI] TCP GW #20 Connected | live=7/10 | 202.181.79.132:39699
+2026-11-25 19:00:19 [info] [🔥 MEHEDI] Match START #20 sent | live=7/10 | UID 19249905414
+2026-11-25 19:00:29 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 19:00:57 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #20 → UDP join | match 2125583019399190528 | 103.16.34.122:10016 | UID 19249905414
+2026-11-25 19:00:57 [info] [🔥 MEHEDI] TCP GW #20 closing (UDP running in bg) | UID 19249905414
+2026-11-25 19:00:57 [info] [🔥 MEHEDI] UDP #20 started | live=8 | UID 19249905414
+2026-11-25 19:00:57 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.16.34.122:10016
+2026-11-25 19:01:07 [success] [🔥 MEHEDI] TCP GW #21 Connected | live=8/10 | 202.181.79.132:39699
+2026-11-25 19:01:10 [info] [🔥 MEHEDI] Match START #21 sent | live=8/10 | UID 19249905414
+2026-11-25 19:01:10 [info] [🔥 MEHEDI] UDP #11 done | live remaining=7 | UID 19249905414
+2026-11-25 19:01:10 [info] Account ROBISTY9Rqf2 finished Match #10
+2026-11-25 19:01:10 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 19:01:30 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 19:01:48 [success] [LOADER] accounts.json → 1 account(s) loaded
+2026-11-25 19:01:48 [info] [LOADER] Total accounts loaded: 1 (from 1 file(s))
+2026-11-25 19:01:48 [success] Reload complete: 0 blacklisted UIDs cleared, 0 new account(s) started.
+2026-11-25 19:01:50 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #21 → UDP join | match 2125583240883396610 | 103.219.201.18:10018 | UID 19249905414
+2026-11-25 19:01:50 [info] [🔥 MEHEDI] TCP GW #21 closing (UDP running in bg) | UID 19249905414
+2026-11-25 19:01:50 [info] [🔥 MEHEDI] UDP #21 started | live=8 | UID 19249905414
+2026-11-25 19:01:50 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.219.201.18:10018
+2026-11-25 19:01:59 [success] [🔥 MEHEDI] TCP GW #22 Connected | live=8/10 | 202.181.79.132:39699
+2026-11-25 19:02:02 [info] [🔥 MEHEDI] Match START #22 sent | live=8/10 | UID 19249905414
+2026-11-25 19:02:30 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 19:03:00 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #22 → UDP join | match 2125583534577145857 | 103.219.200.223:10017 | UID 19249905414
+2026-11-25 19:03:00 [info] [🔥 MEHEDI] TCP GW #22 closing (UDP running in bg) | UID 19249905414
+2026-11-25 19:03:00 [info] [🔥 MEHEDI] UDP #22 started | live=9 | UID 19249905414
+2026-11-25 19:03:00 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.219.200.223:10017
+2026-11-25 19:03:11 [success] [🔥 MEHEDI] TCP GW #23 Connected | live=9/10 | 202.181.79.132:39699
+2026-11-25 19:03:14 [info] [🔥 MEHEDI] Match START #23 sent | live=9/10 | UID 19249905414
+2026-11-25 19:03:30 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 19:03:44 [success] [🔥 MEHEDI] 🎯 MATCH FOUND #23 → UDP join | match 2125583720187682817 | 103.219.200.87:10017 | UID 19249905414
+2026-11-25 19:03:44 [info] [🔥 MEHEDI] TCP GW #23 closing (UDP running in bg) | UID 19249905414
+2026-11-25 19:03:44 [info] [🔥 MEHEDI] UDP #23 started | live=10 | UID 19249905414
+2026-11-25 19:03:44 [success] [🔥 MEHEDI] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249905414 | 103.219.200.87:10017
+2026-11-25 19:03:52 [info] [🔥 MEHEDI] Cap 10 reached (live=10) — waiting for slot | UID 19249905414
+2026-11-25 19:04:31 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 19:05:31 [info] [EXP-REFRESH] UID 19249905414 -> Level: 1, EXP: 0
+2026-11-25 19:05:52 [info] [🔥 MEHEDI] Cap 10 reached (live=10) — waiting for slot | UID 19249905414
+2026-11-25 19:06:19 [warning] 
+[STOP] Shutting down all accounts...
+2026-11-25 19:06:19 [warning] [🔥 MEHEDI] Worker cancelled | UID 19249905414
+2026-11-25 19:06:19 [info] [🔥 MEHEDI] UDP #13 done | live remaining=9 | UID 19249905414
+2026-11-25 19:06:19 [info] Account ROBISTY9Rqf2 finished Match #11
+2026-11-25 19:06:19 [info] [🔥 MEHEDI] UDP #15 done | live remaining=8 | UID 19249905414
+2026-11-25 19:06:19 [info] Account ROBISTY9Rqf2 finished Match #12
+2026-11-25 19:06:19 [info] [🔥 MEHEDI] UDP #16 done | live remaining=7 | UID 19249905414
+2026-11-25 19:06:19 [info] Account ROBISTY9Rqf2 finished Match #13
+2026-11-25 19:06:19 [info] [🔥 MEHEDI] UDP #17 done | live remaining=6 | UID 19249905414
+2026-11-25 19:06:19 [info] Account ROBISTY9Rqf2 finished Match #14
+2026-11-25 19:06:19 [info] [🔥 MEHEDI] UDP #18 done | live remaining=5 | UID 19249905414
+2026-11-25 19:06:19 [info] Account ROBISTY9Rqf2 finished Match #15
+2026-11-25 19:06:19 [info] [🔥 MEHEDI] UDP #19 done | live remaining=4 | UID 19249905414
+2026-11-25 19:06:19 [info] Account ROBISTY9Rqf2 finished Match #16
+2026-11-25 19:06:19 [info] [🔥 MEHEDI] UDP #20 done | live remaining=3 | UID 19249905414
+2026-11-25 19:06:19 [info] Account ROBISTY9Rqf2 finished Match #17
+2026-11-25 19:06:19 [info] [🔥 MEHEDI] UDP #21 done | live remaining=2 | UID 19249905414
+2026-11-25 19:06:19 [info] Account ROBISTY9Rqf2 finished Match #18
+2026-11-25 19:06:19 [info] [🔥 MEHEDI] UDP #22 done | live remaining=1 | UID 19249905414
+2026-11-25 19:06:19 [info] Account ROBISTY9Rqf2 finished Match #19
+2026-11-25 19:06:19 [info] [🔥 MEHEDI] UDP #23 done | live remaining=0 | UID 19249905414
+2026-11-25 19:06:19 [info] Account ROBISTY9Rqf2 finished Match #20
+2026-11-25 19:06:19 [warning] Worker for 8499189118 stopped.
+2026-11-25 19:06:20 [success] All sessions cleanly closed.
+2026-11-25 19:06:28 [info] Start Match Interval: 12.0s
+2026-11-25 19:06:28 [info] Offline Wait: 7.0s (after match found)
+2026-11-25 19:06:28 [info] Non-match Reconnect: 1.0s
+2026-11-25 19:06:28 [info] Cache Invalidation Threshold: 5.0x
+2026-11-25 19:06:28 [info] Parallel Matches: UNLIMITED (background)
+2026-11-25 19:06:28 [info] Cache TTL: 7200s (120 min)
+2026-11-25 19:06:28 [info] Priority Regions: ['IND', 'BD', 'SG', 'TH', 'PH', 'VN', 'MY', 'ID', 'HK', 'TW']
+2026-11-25 19:06:28 [info] Device System: 1 ID = 1 Persistent Device ID (data/devices.json)
+2026-11-25 19:06:28 [info] Login Concurrency: 15 (ENV: LOGIN_CONCURRENCY)
+2026-11-25 19:06:28 [success] Web Dashboard live at http://localhost:5004
+2026-11-25 19:06:28 [info] [LOADER] Total accounts loaded: 0 (from 1 file(s))
+2026-11-25 19:06:28 [warning] No accounts found in any accounts*.json file! Add accounts from Web Dashboard.
+2026-11-25 19:06:28 [warning] Open: http://localhost:5004
+2026-11-25 19:06:28 [info] [LAUNCHER] Starting 0 accounts in batches of 20 (delay: 1.2s between batches)
+2026-11-25 19:06:59 [success] New account added: 8499189259
+2026-11-25 19:06:59 [info] [LOGIN] Starting login for Guest UID: 8499189259...
+2026-11-25 19:06:59 [info] [LOGIN] Full login for UID 8499189259...
+2026-11-25 19:06:59 [info] [VERSION] Fetching version config (shared for all accounts)...
+2026-11-25 19:07:01 [success] [VERSION] Cached: OB55 / 1.134.21
+2026-11-25 19:08:04 [error] [LOGIN FAIL] Garena guest token grant failed (UID/Password thik ache? IP block?) -> ConnectTimeout('')
+2026-11-25 19:08:04 [error] [LOGIN FAIL] Garena guest token grant failed (UID/Password thik ache? IP block?) -> ConnectTimeout('')
+2026-11-25 19:08:04 [warning] [LOGIN-FAIL] UID 8499189259 → 1/5 consecutive login failure
+2026-11-25 19:08:04 [error] Login failed for UID: 8499189259 (attempt 0). Retrying in 13s...
+2026-11-25 19:08:15 [warning] Worker for 8499189259 stopped.
+2026-11-25 19:08:15 [warning] Account 8499189259 deleted from dashboard and accounts.json.
+2026-11-25 19:08:43 [success] New account added: 8499189635
+2026-11-25 19:08:44 [info] [LOGIN] Starting login for Guest UID: 8499189635...
+2026-11-25 19:08:44 [info] [LOGIN] Full login for UID 8499189635...
+2026-11-25 19:09:47 [error] [LOGIN FAIL] Garena guest token grant failed (UID/Password thik ache? IP block?) -> ConnectTimeout('')
+2026-11-25 19:09:47 [error] [LOGIN FAIL] Garena guest token grant failed (UID/Password thik ache? IP block?) -> ConnectTimeout('')
+2026-11-25 19:09:47 [warning] [LOGIN-FAIL] UID 8499189635 → 1/5 consecutive login failure
+2026-11-25 19:09:47 [error] Login failed for UID: 8499189635 (attempt 0). Retrying in 12s...
+2026-11-25 19:09:59 [info] [LOGIN] Starting login for Guest UID: 8499189635...
+2026-11-25 19:09:59 [info] [LOGIN] Full login for UID 8499189635...
+2026-11-25 19:11:01 [error] [LOGIN FAIL] Garena guest token grant failed (UID/Password thik ache? IP block?) -> ConnectTimeout('')
+2026-11-25 19:11:01 [error] [LOGIN FAIL] Garena guest token grant failed (UID/Password thik ache? IP block?) -> ConnectTimeout('')
+2026-11-25 19:11:01 [warning] [LOGIN-FAIL] UID 8499189635 → 2/5 consecutive login failure
+2026-11-25 19:11:01 [error] Login failed for UID: 8499189635 (attempt 0). Retrying in 14s...
+2026-11-25 19:11:15 [info] [LOGIN] Starting login for Guest UID: 8499189635...
+2026-11-25 19:11:15 [info] [LOGIN] Full login for UID 8499189635...
+2026-11-25 19:12:17 [error] [LOGIN FAIL] Garena guest token grant failed (UID/Password thik ache? IP block?) -> ConnectTimeout('')
+2026-11-25 19:12:17 [error] [LOGIN FAIL] Garena guest token grant failed (UID/Password thik ache? IP block?) -> ConnectTimeout('')
+2026-11-25 19:12:17 [warning] [LOGIN-FAIL] UID 8499189635 → 3/5 consecutive login failure
+2026-11-25 19:12:17 [error] Login failed for UID: 8499189635 (attempt 0). Retrying in 10s...
+2026-11-25 19:12:19 [success] New account added: 8499190589
+2026-11-25 19:12:20 [info] [LOGIN] Starting login for Guest UID: 8499190589...
+2026-11-25 19:12:20 [info] [LOGIN] Full login for UID 8499190589...
+2026-11-25 19:12:28 [info] [LOGIN] Starting login for Guest UID: 8499189635...
+2026-11-25 19:12:28 [info] [LOGIN] Full login for UID 8499189635...
+2026-11-25 19:12:49 [success] [CACHE] Saved credentials for UID 8499190589
+2026-11-25 19:12:49 [success] [CACHE] Saved credentials for UID 8499189635
+2026-11-25 19:12:49 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:12:49 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:12:56 [info] [🐻 BR-EVO #1] Match START sent | UID: 19249909656
+2026-11-25 19:12:56 [info] [🐻 BR-EVO #1] Match START sent | UID: 19249906780
+2026-11-25 19:13:34 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 48
+2026-11-25 19:13:34 [info] [EXP-REFRESH] UID 19249906780 -> Level: 2, EXP: 48
+2026-11-25 19:13:35 [success] [🐻 BR-EVO #1] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125586197981157377 | 103.219.202.222:10015
+2026-11-25 19:13:35 [success] [🐻 BR-EVO #1] Match joined! Active: 1/10 | UID: 19249909656
+2026-11-25 19:13:35 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.202.222:10015
+2026-11-25 19:13:35 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:13:37 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:13:41 [success] [🐻 BR-EVO #1] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125586224090712065 | 103.219.203.85:10016
+2026-11-25 19:13:41 [success] [🐻 BR-EVO #1] Match joined! Active: 1/10 | UID: 19249906780
+2026-11-25 19:13:41 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.203.85:10016
+2026-11-25 19:13:42 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:13:43 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:13:44 [info] [🐻 BR-EVO #2] Match START sent | UID: 19249909656
+2026-11-25 19:13:50 [info] [🐻 BR-EVO #2] Match START sent | UID: 19249906780
+2026-11-25 19:14:19 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 48
+2026-11-25 19:14:19 [info] [EXP-REFRESH] UID 19249906780 -> Level: 2, EXP: 48
+2026-11-25 19:14:36 [success] [🐻 BR-EVO #2] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125586454777432066 | 103.16.34.70:10018
+2026-11-25 19:14:36 [success] [🐻 BR-EVO #2] Match joined! Active: 2/10 | UID: 19249906780
+2026-11-25 19:14:36 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.16.34.70:10018
+2026-11-25 19:14:37 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:14:38 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:14:45 [info] [🐻 BR-EVO #3] Match START sent | UID: 19249906780
+2026-11-25 19:14:48 [success] [🐻 BR-EVO #2] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125586501581672448 | 103.219.200.39:10015
+2026-11-25 19:14:48 [success] [🐻 BR-EVO #2] Match joined! Active: 2/10 | UID: 19249909656
+2026-11-25 19:14:48 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.200.39:10015
+2026-11-25 19:14:48 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:14:49 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:14:56 [info] [🐻 BR-EVO #3] Match START sent | UID: 19249909656
+2026-11-25 19:15:04 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 48
+2026-11-25 19:15:04 [info] [EXP-REFRESH] UID 19249906780 -> Level: 2, EXP: 48
+2026-11-25 19:15:13 [success] [🐻 BR-EVO #3] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125586610792966144 | 103.16.32.250:10017
+2026-11-25 19:15:13 [success] [🐻 BR-EVO #3] Match joined! Active: 3/10 | UID: 19249909656
+2026-11-25 19:15:14 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.16.32.250:10017
+2026-11-25 19:15:14 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:15:15 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:15:22 [info] [🐻 BR-EVO #4] Match START sent | UID: 19249909656
+2026-11-25 19:15:33 [success] [🐻 BR-EVO #4] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125586692116377600 | 103.16.34.169:10018
+2026-11-25 19:15:33 [success] [🐻 BR-EVO #4] Match joined! Active: 4/10 | UID: 19249909656
+2026-11-25 19:15:33 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.16.34.169:10018
+2026-11-25 19:15:33 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:15:34 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:15:41 [info] [🐻 BR-EVO #5] Match START sent | UID: 19249909656
+2026-11-25 19:15:41 [success] [🐻 BR-EVO #3] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125586727411386368 | 103.219.201.45:10016
+2026-11-25 19:15:41 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.201.45:10016
+2026-11-25 19:15:42 [success] [🐻 BR-EVO #3] Match joined! Active: 3/10 | UID: 19249906780
+2026-11-25 19:15:42 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:15:43 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:15:47 [success] [🐻 BR-EVO #5] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125586752367499264 | 103.16.32.71:10015
+2026-11-25 19:15:47 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.16.32.71:10015
+2026-11-25 19:15:47 [success] [🐻 BR-EVO #5] Match joined! Active: 5/10 | UID: 19249909656
+2026-11-25 19:15:48 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:15:49 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:15:50 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 48
+2026-11-25 19:15:50 [info] [EXP-REFRESH] UID 19249906780 -> Level: 2, EXP: 48
+2026-11-25 19:15:50 [info] [🐻 BR-EVO #4] Match START sent | UID: 19249906780
+2026-11-25 19:15:56 [info] [🐻 BR-EVO #6] Match START sent | UID: 19249909656
+2026-11-25 19:16:04 [success] [🐻 BR-EVO #6] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125586824069117953 | 103.219.201.144:10015
+2026-11-25 19:16:04 [success] [🐻 BR-EVO #6] Match joined! Active: 6/10 | UID: 19249909656
+2026-11-25 19:16:05 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.201.144:10015
+2026-11-25 19:16:05 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:16:06 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:16:13 [info] [🐻 BR-EVO #7] Match START sent | UID: 19249909656
+2026-11-25 19:16:35 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 48
+2026-11-25 19:16:35 [info] [EXP-REFRESH] UID 19249906780 -> Level: 2, EXP: 48
+2026-11-25 19:16:40 [success] [🐻 BR-EVO #7] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125586973839122432 | 103.219.202.215:10016
+2026-11-25 19:16:40 [success] [🐻 BR-EVO #7] Match joined! Active: 7/10 | UID: 19249909656
+2026-11-25 19:16:40 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.202.215:10016
+2026-11-25 19:16:40 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:16:42 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:16:49 [info] [🐻 BR-EVO #8] Match START sent | UID: 19249909656
+2026-11-25 19:16:54 [success] [🐻 BR-EVO #8] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125587033713008640 | 103.219.202.71:10016
+2026-11-25 19:16:54 [success] [🐻 BR-EVO #8] Match joined! Active: 8/10 | UID: 19249909656
+2026-11-25 19:16:55 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.202.71:10016
+2026-11-25 19:16:55 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:16:56 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:17:03 [info] [🐻 BR-EVO #9] Match START sent | UID: 19249909656
+2026-11-25 19:17:20 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 48
+2026-11-25 19:17:20 [info] [EXP-REFRESH] UID 19249906780 -> Level: 2, EXP: 48
+2026-11-25 19:17:37 [success] [🐻 BR-EVO #9] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125587214583996416 | 103.219.200.218:10016
+2026-11-25 19:17:38 [success] [🐻 BR-EVO #9] Match joined! Active: 9/10 | UID: 19249909656
+2026-11-25 19:17:38 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.200.218:10016
+2026-11-25 19:17:38 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:17:39 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:17:46 [info] [🐻 BR-EVO #10] Match START sent | UID: 19249909656
+2026-11-25 19:17:50 [info] [🐻 BR-EVO #4] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 19:17:57 [info] [🐻 BR-EVO #5] Match START sent | UID: 19249906780
+2026-11-25 19:18:05 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 48
+2026-11-25 19:18:05 [info] [EXP-REFRESH] UID 19249906780 -> Level: 2, EXP: 48
+2026-11-25 19:18:08 [success] [🐻 BR-EVO #5] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125587342237691904 | 103.16.34.179:10016
+2026-11-25 19:18:08 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.16.34.179:10016
+2026-11-25 19:18:08 [success] [🐻 BR-EVO #5] Match joined! Active: 4/10 | UID: 19249906780
+2026-11-25 19:18:08 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:18:09 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:18:16 [info] [🐻 BR-EVO #6] Match START sent | UID: 19249906780
+2026-11-25 19:18:33 [success] [🐻 BR-EVO #10] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125587447082708995 | 103.219.201.206:10015
+2026-11-25 19:18:33 [success] [🐻 BR-EVO #10] Match joined! Active: 10/10 | UID: 19249909656
+2026-11-25 19:18:33 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.201.206:10015
+2026-11-25 19:18:33 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:18:34 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:18:37 [success] [🐻 BR-EVO #6] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125587466246430720 | 103.16.32.70:10016
+2026-11-25 19:18:37 [success] [🐻 BR-EVO #6] Match joined! Active: 5/10 | UID: 19249906780
+2026-11-25 19:18:37 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:18:38 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.16.32.70:10016
+2026-11-25 19:18:38 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:18:39 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:18:46 [info] [🐻 BR-EVO #7] Match START sent | UID: 19249906780
+2026-11-25 19:18:50 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 48
+2026-11-25 19:18:50 [info] [EXP-REFRESH] UID 19249906780 -> Level: 2, EXP: 48
+2026-11-25 19:18:58 [success] [🐻 BR-EVO #7] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125587554523949106 | 103.219.201.202:10017
+2026-11-25 19:18:58 [success] [🐻 BR-EVO #7] Match joined! Active: 6/10 | UID: 19249906780
+2026-11-25 19:18:59 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.201.202:10017
+2026-11-25 19:18:59 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:19:00 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:19:07 [info] [🐻 BR-EVO #8] Match START sent | UID: 19249906780
+2026-11-25 19:19:12 [success] [🐻 BR-EVO #8] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125587612208207877 | 103.219.202.122:10015
+2026-11-25 19:19:12 [success] [🐻 BR-EVO #8] Match joined! Active: 7/10 | UID: 19249906780
+2026-11-25 19:19:12 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.202.122:10015
+2026-11-25 19:19:13 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:19:13 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:19:20 [info] [🐻 BR-EVO #9] Match START sent | UID: 19249906780
+2026-11-25 19:19:35 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 48
+2026-11-25 19:19:36 [info] [EXP-REFRESH] UID 19249906780 -> Level: 2, EXP: 48
+2026-11-25 19:19:37 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:19:48 [success] [🐻 BR-EVO #9] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125587764247537664 | 103.219.202.129:10018
+2026-11-25 19:19:49 [success] [🐻 BR-EVO #9] Match joined! Active: 8/10 | UID: 19249906780
+2026-11-25 19:19:49 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.202.129:10018
+2026-11-25 19:19:49 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:19:50 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:19:57 [info] [🐻 BR-EVO #10] Match START sent | UID: 19249906780
+2026-11-25 19:20:21 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 48
+2026-11-25 19:20:21 [info] [EXP-REFRESH] UID 19249906780 -> Level: 2, EXP: 48
+2026-11-25 19:20:37 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:20:52 [success] [🐻 BR-EVO #10] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125588032515215361 | 103.219.201.1:10016
+2026-11-25 19:20:52 [success] [🐻 BR-EVO #10] Match joined! Active: 9/10 | UID: 19249906780
+2026-11-25 19:20:53 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.201.1:10016
+2026-11-25 19:20:53 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:20:54 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:21:01 [info] [🐻 BR-EVO #11] Match START sent | UID: 19249906780
+2026-11-25 19:21:06 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 48
+2026-11-25 19:21:06 [info] [EXP-REFRESH] UID 19249906780 -> Level: 2, EXP: 48
+2026-11-25 19:21:27 [success] [🐻 BR-EVO #11] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125588179286499328 | 103.219.202.143:10017
+2026-11-25 19:21:28 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.202.143:10017
+2026-11-25 19:21:28 [success] [🐻 BR-EVO #11] Match joined! Active: 10/10 | UID: 19249906780
+2026-11-25 19:21:28 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:21:29 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:21:32 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 19:21:37 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:21:51 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 48
+2026-11-25 19:21:51 [info] [EXP-REFRESH] UID 19249906780 -> Level: 2, EXP: 48
+2026-11-25 19:22:32 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 19:22:36 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 48
+2026-11-25 19:22:36 [success] Account ROBISTLWai8Q (19249906780) gained +131 EXP! Total: +131
+2026-11-25 19:22:36 [info] [EXP-REFRESH] UID 19249906780 -> Level: 2, EXP: 179
+2026-11-25 19:22:37 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:23:14 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:23:14 [info] Account ROBISTLWai8Q finished Match #1
+2026-11-25 19:23:14 [success] Account ROBISTLWai8Q (19249906780) gained +73 EXP! Total: +204
+2026-11-25 19:23:14 [info] [EXP-REFRESH] UID 19249906780 -> Level: 3, EXP: 252
+2026-11-25 19:23:18 [info] [🐻 BR-EVO #12] Match START sent | UID: 19249906780
+2026-11-25 19:23:19 [success] [🐻 BR-EVO #12] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125588648520048642 | 103.219.201.197:10018
+2026-11-25 19:23:19 [success] [🐻 BR-EVO #12] Match joined! Active: 10/10 | UID: 19249906780
+2026-11-25 19:23:20 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.201.197:10018
+2026-11-25 19:23:20 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:23:20 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:23:21 [success] Account ROBISTv2ww5U (19249909656) gained +135 EXP! Total: +135
+2026-11-25 19:23:21 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 183
+2026-11-25 19:23:21 [info] [EXP-REFRESH] UID 19249906780 -> Level: 3, EXP: 252
+2026-11-25 19:23:23 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 19:23:24 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:23:24 [info] Account ROBISTv2ww5U finished Match #1
+2026-11-25 19:23:24 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 183
+2026-11-25 19:23:29 [info] [🐻 BR-EVO #11] Match START sent | UID: 19249909656
+2026-11-25 19:24:07 [info] [EXP-REFRESH] UID 19249909656 -> Level: 2, EXP: 183
+2026-11-25 19:24:07 [info] [EXP-REFRESH] UID 19249906780 -> Level: 3, EXP: 252
+2026-11-25 19:24:12 [success] [🐻 BR-EVO #11] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125588871388598272 | 103.219.203.9:10017
+2026-11-25 19:24:12 [success] [🐻 BR-EVO #11] Match joined! Active: 10/10 | UID: 19249909656
+2026-11-25 19:24:13 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.203.9:10017
+2026-11-25 19:24:13 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:24:14 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:24:17 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:24:23 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 19:24:52 [success] Account ROBISTv2ww5U (19249909656) gained +157 EXP! Total: +292
+2026-11-25 19:24:52 [info] [EXP-REFRESH] UID 19249909656 -> Level: 3, EXP: 340
+2026-11-25 19:24:52 [info] [EXP-REFRESH] UID 19249906780 -> Level: 3, EXP: 252
+2026-11-25 19:25:02 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:25:02 [info] Account ROBISTLWai8Q finished Match #2
+2026-11-25 19:25:02 [info] [EXP-REFRESH] UID 19249906780 -> Level: 3, EXP: 252
+2026-11-25 19:25:06 [info] [🐻 BR-EVO #13] Match START sent | UID: 19249906780
+2026-11-25 19:25:17 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:25:35 [success] [🐻 BR-EVO #13] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125589217909397504 | 103.219.200.73:10018
+2026-11-25 19:25:35 [success] [🐻 BR-EVO #13] Match joined! Active: 10/10 | UID: 19249906780
+2026-11-25 19:25:35 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.200.73:10018
+2026-11-25 19:25:35 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:25:37 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:25:37 [success] Account ROBISTv2ww5U (19249909656) gained +89 EXP! Total: +381
+2026-11-25 19:25:37 [info] [EXP-REFRESH] UID 19249909656 -> Level: 3, EXP: 429
+2026-11-25 19:25:37 [success] Account ROBISTLWai8Q (19249906780) gained +92 EXP! Total: +296
+2026-11-25 19:25:37 [info] [EXP-REFRESH] UID 19249906780 -> Level: 3, EXP: 344
+2026-11-25 19:25:39 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:25:39 [info] Account ROBISTv2ww5U finished Match #2
+2026-11-25 19:25:40 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 19:25:40 [success] Account ROBISTv2ww5U (19249909656) gained +100 EXP! Total: +481
+2026-11-25 19:25:40 [info] [EXP-REFRESH] UID 19249909656 -> Level: 3, EXP: 529
+2026-11-25 19:25:44 [info] [🐻 BR-EVO #12] Match START sent | UID: 19249909656
+2026-11-25 19:25:47 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:25:47 [info] Account ROBISTv2ww5U finished Match #3
+2026-11-25 19:25:47 [info] [EXP-REFRESH] UID 19249909656 -> Level: 3, EXP: 529
+2026-11-25 19:26:17 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:26:17 [info] Account ROBISTv2ww5U finished Match #4
+2026-11-25 19:26:17 [success] Account ROBISTv2ww5U (19249909656) gained +99 EXP! Total: +580
+2026-11-25 19:26:17 [info] [EXP-REFRESH] UID 19249909656 -> Level: 4, EXP: 628
+2026-11-25 19:26:22 [info] [EXP-REFRESH] UID 19249909656 -> Level: 4, EXP: 628
+2026-11-25 19:26:22 [info] [EXP-REFRESH] UID 19249906780 -> Level: 3, EXP: 344
+2026-11-25 19:26:36 [success] [🐻 BR-EVO #12] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125589473795487746 | 103.219.203.95:10018
+2026-11-25 19:26:36 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.203.95:10018
+2026-11-25 19:26:40 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 19:26:43 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:26:43 [info] Account ROBISTv2ww5U finished Match #5
+2026-11-25 19:26:44 [info] [EXP-REFRESH] UID 19249909656 -> Level: 4, EXP: 628
+2026-11-25 19:26:48 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:26:48 [info] Account ROBISTLWai8Q finished Match #3
+2026-11-25 19:26:48 [info] [EXP-REFRESH] UID 19249906780 -> Level: 3, EXP: 344
+2026-11-25 19:26:53 [info] [🐻 BR-EVO #14] Match START sent | UID: 19249906780
+2026-11-25 19:27:03 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:27:03 [info] Account ROBISTv2ww5U finished Match #6
+2026-11-25 19:27:03 [success] Account ROBISTv2ww5U (19249909656) gained +89 EXP! Total: +669
+2026-11-25 19:27:03 [info] [EXP-REFRESH] UID 19249909656 -> Level: 4, EXP: 717
+2026-11-25 19:27:07 [info] [EXP-REFRESH] UID 19249909656 -> Level: 4, EXP: 717
+2026-11-25 19:27:07 [info] [EXP-REFRESH] UID 19249906780 -> Level: 3, EXP: 344
+2026-11-25 19:27:14 [success] [🐻 BR-EVO #14] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125589633762060288 | 103.16.34.132:10017
+2026-11-25 19:27:14 [success] [🐻 BR-EVO #14] Match joined! Active: 10/10 | UID: 19249906780
+2026-11-25 19:27:14 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.16.34.132:10017
+2026-11-25 19:27:15 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:27:15 [info] Account ROBISTv2ww5U finished Match #7
+2026-11-25 19:27:15 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:27:15 [success] Account ROBISTv2ww5U (19249909656) gained +107 EXP! Total: +776
+2026-11-25 19:27:15 [info] [EXP-REFRESH] UID 19249909656 -> Level: 4, EXP: 824
+2026-11-25 19:27:15 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:27:18 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 19:27:44 [info] [🐻 BR-EVO #12] MATCH FOUND নেই (120s) — retry | UID: 19249909656
+2026-11-25 19:27:51 [info] [🐻 BR-EVO #13] Match START sent | UID: 19249909656
+2026-11-25 19:27:53 [info] [EXP-REFRESH] UID 19249909656 -> Level: 4, EXP: 824
+2026-11-25 19:27:53 [info] [EXP-REFRESH] UID 19249906780 -> Level: 3, EXP: 344
+2026-11-25 19:27:54 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:27:54 [info] Account ROBISTv2ww5U finished Match #8
+2026-11-25 19:27:54 [info] [EXP-REFRESH] UID 19249909656 -> Level: 4, EXP: 824
+2026-11-25 19:28:18 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 19:28:20 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:28:20 [info] Account ROBISTv2ww5U finished Match #9
+2026-11-25 19:28:20 [success] Account ROBISTv2ww5U (19249909656) gained +99 EXP! Total: +875
+2026-11-25 19:28:20 [info] [EXP-REFRESH] UID 19249909656 -> Level: 4, EXP: 923
+2026-11-25 19:28:38 [info] [EXP-REFRESH] UID 19249909656 -> Level: 4, EXP: 923
+2026-11-25 19:28:38 [success] Account ROBISTLWai8Q (19249906780) gained +350 EXP! Total: +646
+2026-11-25 19:28:38 [info] [EXP-REFRESH] UID 19249906780 -> Level: 4, EXP: 694
+2026-11-25 19:29:13 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:29:13 [info] Account ROBISTLWai8Q finished Match #4
+2026-11-25 19:29:13 [info] [EXP-REFRESH] UID 19249906780 -> Level: 4, EXP: 694
+2026-11-25 19:29:18 [info] [🐻 BR-EVO #15] Match START sent | UID: 19249906780
+2026-11-25 19:29:19 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:29:19 [info] Account ROBISTv2ww5U finished Match #10
+2026-11-25 19:29:19 [success] Account ROBISTv2ww5U (19249909656) gained +92 EXP! Total: +967
+2026-11-25 19:29:19 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1015
+2026-11-25 19:29:23 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1015
+2026-11-25 19:29:23 [info] [EXP-REFRESH] UID 19249906780 -> Level: 4, EXP: 694
+2026-11-25 19:29:28 [success] [🐻 BR-EVO #15] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125590194381189122 | 103.219.201.77:10016
+2026-11-25 19:29:28 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.201.77:10016
+2026-11-25 19:29:28 [success] [🐻 BR-EVO #15] Match joined! Active: 10/10 | UID: 19249906780
+2026-11-25 19:29:28 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:29:29 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:29:32 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 19:29:52 [info] [🐻 BR-EVO #13] MATCH FOUND নেই (120s) — retry | UID: 19249909656
+2026-11-25 19:29:54 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:29:54 [info] Account ROBISTLWai8Q finished Match #5
+2026-11-25 19:29:54 [success] Account ROBISTLWai8Q (19249906780) gained +184 EXP! Total: +830
+2026-11-25 19:29:54 [info] [EXP-REFRESH] UID 19249906780 -> Level: 4, EXP: 878
+2026-11-25 19:29:59 [info] [🐻 BR-EVO #16] Match START sent | UID: 19249906780
+2026-11-25 19:29:59 [info] [🐻 BR-EVO #14] Match START sent | UID: 19249909656
+2026-11-25 19:30:08 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:30:08 [info] Account ROBISTLWai8Q finished Match #6
+2026-11-25 19:30:08 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1015
+2026-11-25 19:30:08 [info] [EXP-REFRESH] UID 19249906780 -> Level: 4, EXP: 878
+2026-11-25 19:30:09 [info] [EXP-REFRESH] UID 19249906780 -> Level: 4, EXP: 878
+2026-11-25 19:30:27 [success] [🐻 BR-EVO #16] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125590444260986881 | 103.219.202.106:10017
+2026-11-25 19:30:28 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.202.106:10017
+2026-11-25 19:30:29 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:30:29 [info] Account ROBISTLWai8Q finished Match #7
+2026-11-25 19:30:30 [info] [EXP-REFRESH] UID 19249906780 -> Level: 4, EXP: 878
+2026-11-25 19:30:53 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1015
+2026-11-25 19:30:54 [info] [EXP-REFRESH] UID 19249906780 -> Level: 4, EXP: 878
+2026-11-25 19:31:00 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:31:00 [info] Account ROBISTLWai8Q finished Match #8
+2026-11-25 19:31:00 [info] [EXP-REFRESH] UID 19249906780 -> Level: 4, EXP: 878
+2026-11-25 19:31:38 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1015
+2026-11-25 19:31:39 [success] Account ROBISTLWai8Q (19249906780) gained +98 EXP! Total: +928
+2026-11-25 19:31:39 [info] [EXP-REFRESH] UID 19249906780 -> Level: 4, EXP: 976
+2026-11-25 19:31:56 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:31:56 [info] Account ROBISTLWai8Q finished Match #9
+2026-11-25 19:31:57 [info] [EXP-REFRESH] UID 19249906780 -> Level: 4, EXP: 976
+2026-11-25 19:31:59 [info] [🐻 BR-EVO #16] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 19:31:59 [info] [🐻 BR-EVO #14] MATCH FOUND নেই (120s) — retry | UID: 19249909656
+2026-11-25 19:32:06 [info] [🐻 BR-EVO #17] Match START sent | UID: 19249906780
+2026-11-25 19:32:06 [info] [🐻 BR-EVO #15] Match START sent | UID: 19249909656
+2026-11-25 19:32:24 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1015
+2026-11-25 19:32:24 [info] [EXP-REFRESH] UID 19249906780 -> Level: 4, EXP: 976
+2026-11-25 19:32:25 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:32:25 [info] Account ROBISTLWai8Q finished Match #10
+2026-11-25 19:32:25 [info] [EXP-REFRESH] UID 19249906780 -> Level: 4, EXP: 976
+2026-11-25 19:33:09 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1015
+2026-11-25 19:33:09 [info] [EXP-REFRESH] UID 19249906780 -> Level: 4, EXP: 976
+2026-11-25 19:33:54 [success] Account ROBISTv2ww5U (19249909656) gained +95 EXP! Total: +1062
+2026-11-25 19:33:54 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1110
+2026-11-25 19:33:55 [success] Account ROBISTLWai8Q (19249906780) gained +100 EXP! Total: +1028
+2026-11-25 19:33:55 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1076
+2026-11-25 19:34:06 [info] [🐻 BR-EVO #17] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 19:34:06 [info] [🐻 BR-EVO #15] MATCH FOUND নেই (120s) — retry | UID: 19249909656
+2026-11-25 19:34:12 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:34:12 [info] Account ROBISTLWai8Q finished Match #11
+2026-11-25 19:34:12 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1076
+2026-11-25 19:34:13 [info] [🐻 BR-EVO #18] Match START sent | UID: 19249906780
+2026-11-25 19:34:13 [info] [🐻 BR-EVO #16] Match START sent | UID: 19249909656
+2026-11-25 19:34:39 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1110
+2026-11-25 19:34:40 [success] Account ROBISTLWai8Q (19249906780) gained +88 EXP! Total: +1116
+2026-11-25 19:34:40 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1164
+2026-11-25 19:35:24 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1110
+2026-11-25 19:35:25 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1164
+2026-11-25 19:35:31 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:35:31 [info] Account ROBISTv2ww5U finished Match #11
+2026-11-25 19:35:31 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1110
+2026-11-25 19:36:10 [success] Account ROBISTv2ww5U (19249909656) gained +86 EXP! Total: +1148
+2026-11-25 19:36:10 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1196
+2026-11-25 19:36:10 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1164
+2026-11-25 19:36:14 [info] [🐻 BR-EVO #18] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 19:36:14 [info] [🐻 BR-EVO #16] MATCH FOUND নেই (120s) — retry | UID: 19249909656
+2026-11-25 19:36:21 [info] [🐻 BR-EVO #19] Match START sent | UID: 19249906780
+2026-11-25 19:36:21 [info] [🐻 BR-EVO #17] Match START sent | UID: 19249909656
+2026-11-25 19:36:49 [success] [🐻 BR-EVO #17] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125592046015346688 | 103.16.32.28:10018
+2026-11-25 19:36:49 [success] [🐻 BR-EVO #17] Match joined! Active: 2/10 | UID: 19249909656
+2026-11-25 19:36:50 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.16.32.28:10018
+2026-11-25 19:36:50 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:36:51 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:36:51 [info] Account ROBISTv2ww5U finished Match #12
+2026-11-25 19:36:51 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1196
+2026-11-25 19:36:51 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:36:54 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:36:54 [info] Account ROBISTLWai8Q finished Match #12
+2026-11-25 19:36:54 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1164
+2026-11-25 19:36:55 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1196
+2026-11-25 19:36:55 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1164
+2026-11-25 19:36:58 [info] [🐻 BR-EVO #18] Match START sent | UID: 19249909656
+2026-11-25 19:37:09 [success] [🐻 BR-EVO #18] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125592129419077632 | 103.219.201.153:10016
+2026-11-25 19:37:09 [success] [🐻 BR-EVO #18] Match joined! Active: 2/10 | UID: 19249909656
+2026-11-25 19:37:09 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.201.153:10016
+2026-11-25 19:37:10 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:37:11 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:37:18 [info] [🐻 BR-EVO #19] Match START sent | UID: 19249909656
+2026-11-25 19:37:36 [success] [🐻 BR-EVO #19] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125592242061293568 | 103.219.200.215:10015
+2026-11-25 19:37:36 [success] [🐻 BR-EVO #19] Match joined! Active: 3/10 | UID: 19249909656
+2026-11-25 19:37:36 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.200.215:10015
+2026-11-25 19:37:36 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:37:38 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:37:40 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1196
+2026-11-25 19:37:41 [success] Account ROBISTLWai8Q (19249906780) gained +89 EXP! Total: +1205
+2026-11-25 19:37:41 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1253
+2026-11-25 19:37:45 [info] [🐻 BR-EVO #20] Match START sent | UID: 19249909656
+2026-11-25 19:38:13 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:38:13 [info] Account ROBISTLWai8Q finished Match #13
+2026-11-25 19:38:14 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1253
+2026-11-25 19:38:21 [info] [🐻 BR-EVO #19] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 19:38:23 [success] [🐻 BR-EVO #20] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125592436551196672 | 103.16.32.70:10016
+2026-11-25 19:38:23 [success] [🐻 BR-EVO #20] Match joined! Active: 4/10 | UID: 19249909656
+2026-11-25 19:38:23 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.16.32.70:10016
+2026-11-25 19:38:23 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:38:25 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:38:25 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1196
+2026-11-25 19:38:26 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1253
+2026-11-25 19:38:28 [info] [🐻 BR-EVO #20] Match START sent | UID: 19249906780
+2026-11-25 19:38:32 [info] [🐻 BR-EVO #21] Match START sent | UID: 19249909656
+2026-11-25 19:38:58 [success] [🐻 BR-EVO #21] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125592586191173632 | 103.16.33.4:10017
+2026-11-25 19:38:58 [success] [🐻 BR-EVO #21] Match joined! Active: 5/10 | UID: 19249909656
+2026-11-25 19:38:58 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.16.33.4:10017
+2026-11-25 19:38:59 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:39:00 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:39:07 [info] [🐻 BR-EVO #22] Match START sent | UID: 19249909656
+2026-11-25 19:39:10 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1196
+2026-11-25 19:39:11 [success] Account ROBISTLWai8Q (19249906780) gained +85 EXP! Total: +1290
+2026-11-25 19:39:11 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1338
+2026-11-25 19:39:30 [success] [🐻 BR-EVO #22] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125592720077545473 | 103.16.35.15:10015
+2026-11-25 19:39:30 [success] [🐻 BR-EVO #22] Match joined! Active: 6/10 | UID: 19249909656
+2026-11-25 19:39:30 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:39:30 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.16.35.15:10015
+2026-11-25 19:39:31 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:39:38 [info] [🐻 BR-EVO #23] Match START sent | UID: 19249909656
+2026-11-25 19:39:43 [success] [🐻 BR-EVO #23] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125592776478566400 | 103.16.33.42:10017
+2026-11-25 19:39:44 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.16.33.42:10017
+2026-11-25 19:39:44 [success] [🐻 BR-EVO #23] Match joined! Active: 7/10 | UID: 19249909656
+2026-11-25 19:39:44 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:39:45 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:39:52 [info] [🐻 BR-EVO #24] Match START sent | UID: 19249909656
+2026-11-25 19:39:55 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1196
+2026-11-25 19:39:56 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1338
+2026-11-25 19:40:01 [success] [🐻 BR-EVO #24] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125592850239567872 | 103.16.32.225:10017
+2026-11-25 19:40:01 [success] [🐻 BR-EVO #24] Match joined! Active: 8/10 | UID: 19249909656
+2026-11-25 19:40:01 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.16.32.225:10017
+2026-11-25 19:40:01 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:40:02 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:40:09 [info] [🐻 BR-EVO #25] Match START sent | UID: 19249909656
+2026-11-25 19:40:13 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:40:13 [info] Account ROBISTLWai8Q finished Match #14
+2026-11-25 19:40:13 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1338
+2026-11-25 19:40:17 [success] [🐻 BR-EVO #25] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125592918887768064 | 103.219.201.200:10015
+2026-11-25 19:40:18 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.201.200:10015
+2026-11-25 19:40:18 [success] [🐻 BR-EVO #25] Match joined! Active: 9/10 | UID: 19249909656
+2026-11-25 19:40:18 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:40:19 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:40:26 [info] [🐻 BR-EVO #26] Match START sent | UID: 19249909656
+2026-11-25 19:40:29 [info] [🐻 BR-EVO #20] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 19:40:36 [info] [🐻 BR-EVO #21] Match START sent | UID: 19249906780
+2026-11-25 19:40:38 [success] [🐻 BR-EVO #26] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125593004581646343 | 103.16.34.75:10016
+2026-11-25 19:40:38 [success] [🐻 BR-EVO #26] Match joined! Active: 10/10 | UID: 19249909656
+2026-11-25 19:40:38 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.16.34.75:10016
+2026-11-25 19:40:39 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 19:40:40 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 19:40:41 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1196
+2026-11-25 19:40:41 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1338
+2026-11-25 19:40:42 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:40:42 [info] Account ROBISTLWai8Q finished Match #15
+2026-11-25 19:40:43 [success] Account ROBISTLWai8Q (19249906780) gained +84 EXP! Total: +1374
+2026-11-25 19:40:43 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:40:43 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:41:26 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1196
+2026-11-25 19:41:27 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:41:43 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:42:18 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 19:42:18 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 19:42:23 [error] [LOGIN FAIL] GetLoginData exception -> ReadTimeout('')
+2026-11-25 19:42:23 [error] [LOGIN FAIL] GetLoginData exception -> ReadTimeout('')
+2026-11-25 19:42:36 [info] [🐻 BR-EVO #21] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 19:42:43 [info] [🐻 BR-EVO #22] Match START sent | UID: 19249906780
+2026-11-25 19:42:43 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:43:04 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:43:08 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1196
+2026-11-25 19:43:43 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:43:50 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:43:54 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1196
+2026-11-25 19:44:43 [info] [🐻 BR-EVO #22] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 19:44:43 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:44:43 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1196
+2026-11-25 19:44:44 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:44:50 [info] [🐻 BR-EVO #23] Match START sent | UID: 19249906780
+2026-11-25 19:45:29 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1196
+2026-11-25 19:45:29 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:45:33 [success] [🐻 BR-EVO #23] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125594239267248129 | 103.219.201.35:10015
+2026-11-25 19:45:33 [success] [🐻 BR-EVO #23] Match joined! Active: 1/10 | UID: 19249906780
+2026-11-25 19:45:34 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.201.35:10015
+2026-11-25 19:45:35 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:45:37 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:45:43 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:45:44 [info] [🐻 BR-EVO #24] Match START sent | UID: 19249906780
+2026-11-25 19:46:16 [success] Account ROBISTv2ww5U (19249909656) gained +77 EXP! Total: +1225
+2026-11-25 19:46:16 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1273
+2026-11-25 19:46:16 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:46:18 [success] [🐻 BR-EVO #24] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125594407043602433 | 103.16.34.128:10017
+2026-11-25 19:46:18 [success] [🐻 BR-EVO #24] Match joined! Active: 2/10 | UID: 19249906780
+2026-11-25 19:46:19 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.16.34.128:10017
+2026-11-25 19:46:19 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:46:20 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:46:27 [info] [🐻 BR-EVO #25] Match START sent | UID: 19249906780
+2026-11-25 19:46:43 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:46:47 [success] [🐻 BR-EVO #25] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125594554678910976 | 103.16.32.244:10015
+2026-11-25 19:46:48 [success] [🐻 BR-EVO #25] Match joined! Active: 3/10 | UID: 19249906780
+2026-11-25 19:46:48 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.16.32.244:10015
+2026-11-25 19:46:48 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:46:49 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:46:56 [info] [🐻 BR-EVO #26] Match START sent | UID: 19249906780
+2026-11-25 19:47:01 [success] Account ROBISTv2ww5U (19249909656) gained +99 EXP! Total: +1324
+2026-11-25 19:47:01 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1372
+2026-11-25 19:47:01 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:47:22 [success] [🐻 BR-EVO #26] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125594701479550976 | 103.16.32.70:10016
+2026-11-25 19:47:23 [success] [🐻 BR-EVO #26] Match joined! Active: 4/10 | UID: 19249906780
+2026-11-25 19:47:23 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.16.32.70:10016
+2026-11-25 19:47:23 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:47:24 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:47:31 [info] [🐻 BR-EVO #27] Match START sent | UID: 19249906780
+2026-11-25 19:47:43 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 19:47:46 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1372
+2026-11-25 19:47:46 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:47:50 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:47:50 [info] Account ROBISTv2ww5U finished Match #13
+2026-11-25 19:47:51 [success] Account ROBISTv2ww5U (19249909656) gained +77 EXP! Total: +1401
+2026-11-25 19:47:51 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1449
+2026-11-25 19:47:55 [info] [🐻 BR-EVO #27] Match START sent | UID: 19249909656
+2026-11-25 19:48:03 [success] [🐻 BR-EVO #27] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125594872099436545 | 103.219.203.77:10015
+2026-11-25 19:48:04 [success] [🐻 BR-EVO #27] Match joined! Active: 5/10 | UID: 19249906780
+2026-11-25 19:48:05 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:48:05 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.203.77:10015
+2026-11-25 19:48:09 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:48:09 [info] Account ROBISTv2ww5U finished Match #14
+2026-11-25 19:48:14 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 19:48:14 [info] [🐻 BR-EVO] Reconnecting in 2.9s... | UID: 19249906780
+2026-11-25 19:48:16 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1449
+2026-11-25 19:48:17 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:48:24 [info] [🐻 BR-EVO #28] Match START sent | UID: 19249906780
+2026-11-25 19:48:32 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:48:32 [success] Account ROBISTv2ww5U (19249909656) gained +173 EXP! Total: +1574
+2026-11-25 19:48:32 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1622
+2026-11-25 19:48:39 [success] [🐻 BR-EVO #27] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125595011237283840 | 103.219.202.198:10015
+2026-11-25 19:48:39 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.202.198:10015
+2026-11-25 19:48:39 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:48:39 [info] Account ROBISTv2ww5U finished Match #15
+2026-11-25 19:48:40 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1622
+2026-11-25 19:48:52 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:48:52 [info] Account ROBISTv2ww5U finished Match #16
+2026-11-25 19:48:52 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1622
+2026-11-25 19:48:53 [success] [🐻 BR-EVO #28] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125595083362543616 | 103.219.201.212:10016
+2026-11-25 19:48:54 [success] [🐻 BR-EVO #28] Match joined! Active: 6/10 | UID: 19249906780
+2026-11-25 19:48:59 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.201.212:10016
+2026-11-25 19:48:59 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:49:04 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:49:11 [info] [🐻 BR-EVO #29] Match START sent | UID: 19249906780
+2026-11-25 19:49:19 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:49:19 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1622
+2026-11-25 19:49:27 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:49:27 [info] Account ROBISTv2ww5U finished Match #17
+2026-11-25 19:49:27 [info] [EXP-REFRESH] UID 19249909656 -> Level: 5, EXP: 1622
+2026-11-25 19:49:51 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:49:51 [info] Account ROBISTv2ww5U finished Match #18
+2026-11-25 19:49:52 [success] Account ROBISTv2ww5U (19249909656) gained +349 EXP! Total: +1923
+2026-11-25 19:49:52 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:49:55 [info] [🐻 BR-EVO #27] MATCH FOUND নেই (120s) — retry | UID: 19249909656
+2026-11-25 19:50:02 [info] [🐻 BR-EVO #28] Match START sent | UID: 19249909656
+2026-11-25 19:50:04 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:50:04 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:50:04 [info] Account ROBISTv2ww5U finished Match #19
+2026-11-25 19:50:04 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:50:05 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:50:23 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:50:23 [info] Account ROBISTv2ww5U finished Match #20
+2026-11-25 19:50:23 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:50:49 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:50:50 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:51:04 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:51:04 [info] Account ROBISTv2ww5U finished Match #21
+2026-11-25 19:51:04 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:51:11 [info] [🐻 BR-EVO #29] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 19:51:18 [info] [🐻 BR-EVO #30] Match START sent | UID: 19249906780
+2026-11-25 19:51:34 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:51:35 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:51:35 [info] Account ROBISTv2ww5U finished Match #22
+2026-11-25 19:51:43 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:51:46 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:52:03 [info] [🐻 BR-EVO #28] MATCH FOUND নেই (120s) — retry | UID: 19249909656
+2026-11-25 19:52:10 [info] [🐻 BR-EVO #29] Match START sent | UID: 19249909656
+2026-11-25 19:52:22 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:52:28 [success] [🐻 BR-EVO #30] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125595975931398145 | 103.16.34.130:10018
+2026-11-25 19:52:28 [success] [🐻 BR-EVO #30] Match joined! Active: 7/10 | UID: 19249906780
+2026-11-25 19:52:32 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:52:33 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.16.34.130:10018
+2026-11-25 19:52:33 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:52:36 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:52:43 [info] [🐻 BR-EVO #31] Match START sent | UID: 19249906780
+2026-11-25 19:53:07 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:53:18 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:53:18 [success] [🐻 BR-EVO #31] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125596192273657858 | 103.219.202.143:10015
+2026-11-25 19:53:18 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.202.143:10015
+2026-11-25 19:53:18 [success] [🐻 BR-EVO #31] Match joined! Active: 8/10 | UID: 19249906780
+2026-11-25 19:53:18 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:53:20 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:53:27 [info] [🐻 BR-EVO #32] Match START sent | UID: 19249906780
+2026-11-25 19:53:53 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:54:10 [info] [🐻 BR-EVO #29] MATCH FOUND নেই (120s) — retry | UID: 19249909656
+2026-11-25 19:54:15 [error] [LOGIN FAIL] GetLoginData exception -> ReadTimeout('')
+2026-11-25 19:54:15 [error] [LOGIN FAIL] GetLoginData exception -> ReadTimeout('')
+2026-11-25 19:54:17 [info] [🐻 BR-EVO #30] Match START sent | UID: 19249909656
+2026-11-25 19:54:25 [success] [🐻 BR-EVO #32] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125596470557272064 | 103.219.202.241:10016
+2026-11-25 19:54:25 [success] [🐻 BR-EVO #32] Match joined! Active: 9/10 | UID: 19249906780
+2026-11-25 19:54:26 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.202.241:10016
+2026-11-25 19:54:26 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:54:27 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:54:34 [info] [🐻 BR-EVO #33] Match START sent | UID: 19249906780
+2026-11-25 19:54:39 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1422
+2026-11-25 19:55:00 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:55:15 [success] [🐻 BR-EVO #33] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125596683825043457 | 103.219.201.20:10017
+2026-11-25 19:55:15 [success] [🐻 BR-EVO #33] Match joined! Active: 10/10 | UID: 19249906780
+2026-11-25 19:55:15 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.201.20:10017
+2026-11-25 19:55:15 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:55:17 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:55:20 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 19:55:24 [success] Account ROBISTLWai8Q (19249906780) gained +89 EXP! Total: +1463
+2026-11-25 19:55:24 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1511
+2026-11-25 19:55:45 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:55:45 [info] Account ROBISTLWai8Q finished Match #16
+2026-11-25 19:55:45 [success] Account ROBISTLWai8Q (19249906780) gained +177 EXP! Total: +1640
+2026-11-25 19:55:45 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1688
+2026-11-25 19:55:45 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:55:50 [info] [🐻 BR-EVO #34] Match START sent | UID: 19249906780
+2026-11-25 19:56:09 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1688
+2026-11-25 19:56:17 [info] [🐻 BR-EVO #30] MATCH FOUND নেই (120s) — retry | UID: 19249909656
+2026-11-25 19:56:24 [info] [🐻 BR-EVO #31] Match START sent | UID: 19249909656
+2026-11-25 19:56:30 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:56:31 [success] [🐻 BR-EVO #34] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125597002638276610 | 103.219.200.158:10017
+2026-11-25 19:56:31 [success] [🐻 BR-EVO #34] Match joined! Active: 10/10 | UID: 19249906780
+2026-11-25 19:56:31 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.200.158:10017
+2026-11-25 19:56:31 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 19:56:33 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 19:56:33 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:56:33 [info] Account ROBISTLWai8Q finished Match #17
+2026-11-25 19:56:33 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1688
+2026-11-25 19:56:40 [info] [🐻 BR-EVO #35] Match START sent | UID: 19249906780
+2026-11-25 19:56:54 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1688
+2026-11-25 19:57:04 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:57:04 [info] Account ROBISTLWai8Q finished Match #18
+2026-11-25 19:57:04 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1688
+2026-11-25 19:57:04 [success] [🐻 BR-EVO #35] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125597142052757504 | 103.16.35.17:10018
+2026-11-25 19:57:05 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.16.35.17:10018
+2026-11-25 19:57:16 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:57:28 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:57:28 [info] Account ROBISTLWai8Q finished Match #19
+2026-11-25 19:57:29 [success] Account ROBISTLWai8Q (19249906780) gained +96 EXP! Total: +1736
+2026-11-25 19:57:29 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1784
+2026-11-25 19:57:40 [info] [EXP-REFRESH] UID 19249906780 -> Level: 5, EXP: 1784
+2026-11-25 19:58:01 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:58:02 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 19:58:02 [info] Account ROBISTLWai8Q finished Match #20
+2026-11-25 19:58:02 [success] Account ROBISTLWai8Q (19249906780) gained +85 EXP! Total: +1821
+2026-11-25 19:58:02 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 1869
+2026-11-25 19:58:24 [info] [🐻 BR-EVO #31] MATCH FOUND নেই (120s) — retry | UID: 19249909656
+2026-11-25 19:58:25 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 1869
+2026-11-25 19:58:31 [info] [🐻 BR-EVO #32] Match START sent | UID: 19249909656
+2026-11-25 19:58:40 [info] [🐻 BR-EVO #35] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 19:58:46 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 1971
+2026-11-25 19:58:47 [info] [🐻 BR-EVO #36] Match START sent | UID: 19249906780
+2026-11-25 19:59:10 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 1869
+2026-11-25 19:59:31 [success] Account ROBISTv2ww5U (19249909656) gained +83 EXP! Total: +2006
+2026-11-25 19:59:31 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 19:59:55 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 1869
+2026-11-25 19:59:57 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 19:59:57 [info] Account ROBISTv2ww5U finished Match #23
+2026-11-25 19:59:57 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:00:16 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:00:31 [info] [🐻 BR-EVO #32] MATCH FOUND নেই (120s) — retry | UID: 19249909656
+2026-11-25 20:00:38 [info] [🐻 BR-EVO #33] Match START sent | UID: 19249909656
+2026-11-25 20:00:41 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 1869
+2026-11-25 20:00:47 [info] [🐻 BR-EVO #36] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 20:00:54 [info] [🐻 BR-EVO #37] Match START sent | UID: 19249906780
+2026-11-25 20:01:02 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:01:02 [success] [🐻 BR-EVO #33] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125598140838191104 | 103.219.200.89:10017
+2026-11-25 20:01:02 [success] [🐻 BR-EVO #33] Match joined! Active: 1/10 | UID: 19249909656
+2026-11-25 20:01:03 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.200.89:10017
+2026-11-25 20:01:03 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:01:04 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:01:11 [info] [🐻 BR-EVO #34] Match START sent | UID: 19249909656
+2026-11-25 20:01:26 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 1869
+2026-11-25 20:01:29 [success] [🐻 BR-EVO #34] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125598247503589382 | 103.219.202.104:10017
+2026-11-25 20:01:29 [success] [🐻 BR-EVO #34] Match joined! Active: 2/10 | UID: 19249909656
+2026-11-25 20:01:34 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.202.104:10017
+2026-11-25 20:01:37 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:01:46 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:01:46 [info] [🐻 BR-EVO] Reconnecting in 2.5s... | UID: 19249909656
+2026-11-25 20:01:50 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:01:54 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:01:57 [info] [🐻 BR-EVO #35] Match START sent | UID: 19249909656
+2026-11-25 20:02:12 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 1869
+2026-11-25 20:02:48 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:02:55 [info] [🐻 BR-EVO #37] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 20:02:57 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 1869
+2026-11-25 20:03:02 [info] [🐻 BR-EVO #38] Match START sent | UID: 19249906780
+2026-11-25 20:03:08 [success] [🐻 BR-EVO #35] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125598669509240832 | 103.123.54.104:10015
+2026-11-25 20:03:09 [success] [🐻 BR-EVO #35] Match joined! Active: 3/10 | UID: 19249909656
+2026-11-25 20:03:09 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.123.54.104:10015
+2026-11-25 20:03:09 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:03:10 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:03:17 [info] [🐻 BR-EVO #36] Match START sent | UID: 19249909656
+2026-11-25 20:03:22 [success] [🐻 BR-EVO #36] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125598728086884352 | 103.16.34.136:10016
+2026-11-25 20:03:22 [success] [🐻 BR-EVO #36] Match joined! Active: 4/10 | UID: 19249909656
+2026-11-25 20:03:23 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.16.34.136:10016
+2026-11-25 20:03:23 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:03:24 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:03:32 [info] [🐻 BR-EVO #37] Match START sent | UID: 19249909656
+2026-11-25 20:03:34 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:03:36 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 20:03:36 [info] Account ROBISTLWai8Q finished Match #21
+2026-11-25 20:03:36 [success] Account ROBISTLWai8Q (19249906780) gained +89 EXP! Total: +1910
+2026-11-25 20:03:36 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 1958
+2026-11-25 20:03:42 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 1958
+2026-11-25 20:03:59 [info] Account ROBISTLWai8Q finished Match #22
+2026-11-25 20:04:11 [error] [LOGIN FAIL] GetLoginData exception -> ReadTimeout('')
+2026-11-25 20:04:11 [error] [LOGIN FAIL] GetLoginData exception -> ReadTimeout('')
+2026-11-25 20:04:18 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 20:04:18 [info] Account ROBISTLWai8Q finished Match #23
+2026-11-25 20:04:22 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:04:23 [success] Account ROBISTLWai8Q (19249906780) gained +90 EXP! Total: +2000
+2026-11-25 20:04:23 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2048
+2026-11-25 20:04:27 [success] Account ROBISTLWai8Q (19249906780) gained +90 EXP! Total: +2090
+2026-11-25 20:04:27 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2138
+2026-11-25 20:04:42 [success] [🐻 BR-EVO #37] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125599063601848320 | 103.219.202.106:10017
+2026-11-25 20:04:43 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.202.106:10017
+2026-11-25 20:04:43 [success] [🐻 BR-EVO #37] Match joined! Active: 5/10 | UID: 19249909656
+2026-11-25 20:04:43 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:04:44 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:04:51 [info] [🐻 BR-EVO #38] Match START sent | UID: 19249909656
+2026-11-25 20:04:57 [success] [🐻 BR-EVO #38] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125599125664962576 | 103.219.202.167:10017
+2026-11-25 20:04:57 [success] [🐻 BR-EVO #38] Match joined! Active: 6/10 | UID: 19249909656
+2026-11-25 20:04:57 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.202.167:10017
+2026-11-25 20:04:58 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:04:58 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:05:02 [info] [🐻 BR-EVO #38] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 20:05:05 [info] [🐻 BR-EVO #39] Match START sent | UID: 19249909656
+2026-11-25 20:05:08 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:05:09 [info] [🐻 BR-EVO #39] Match START sent | UID: 19249906780
+2026-11-25 20:05:12 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2138
+2026-11-25 20:05:34 [success] [🐻 BR-EVO #39] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125599281172963329 | 103.219.203.80:10015
+2026-11-25 20:05:35 [success] [🐻 BR-EVO #39] Match joined! Active: 7/10 | UID: 19249909656
+2026-11-25 20:05:36 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.203.80:10015
+2026-11-25 20:05:36 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:05:37 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:05:40 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249906780
+2026-11-25 20:05:41 [info] Account ROBISTLWai8Q finished Match #24
+2026-11-25 20:05:41 [success] Account ROBISTLWai8Q (19249906780) gained +80 EXP! Total: +2170
+2026-11-25 20:05:41 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2218
+2026-11-25 20:05:44 [info] [🐻 BR-EVO #40] Match START sent | UID: 19249909656
+2026-11-25 20:06:05 [error] [LOGIN FAIL] GetLoginData exception -> ReadTimeout('')
+2026-11-25 20:06:05 [error] [LOGIN FAIL] GetLoginData exception -> ReadTimeout('')
+2026-11-25 20:06:10 [error] [LOGIN FAIL] GetLoginData exception -> ConnectTimeout('')
+2026-11-25 20:06:10 [error] [LOGIN FAIL] GetLoginData exception -> ConnectTimeout('')
+2026-11-25 20:07:02 [error] [LOGIN FAIL] GetLoginData exception -> ConnectTimeout('')
+2026-11-25 20:07:02 [error] [LOGIN FAIL] GetLoginData exception -> ConnectTimeout('')
+2026-11-25 20:07:07 [error] [LOGIN FAIL] GetLoginData exception -> ConnectTimeout('')
+2026-11-25 20:07:07 [error] [LOGIN FAIL] GetLoginData exception -> ConnectTimeout('')
+2026-11-25 20:07:10 [info] [🐻 BR-EVO #39] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 20:07:17 [info] [🐻 BR-EVO #40] Match START sent | UID: 19249906780
+2026-11-25 20:07:45 [info] [🐻 BR-EVO #40] MATCH FOUND নেই (120s) — retry | UID: 19249909656
+2026-11-25 20:07:52 [info] [🐻 BR-EVO #41] Match START sent | UID: 19249909656
+2026-11-25 20:07:59 [error] [LOGIN FAIL] GetLoginData exception -> ConnectTimeout('')
+2026-11-25 20:07:59 [error] [LOGIN FAIL] GetLoginData exception -> ConnectTimeout('')
+2026-11-25 20:08:04 [error] [LOGIN FAIL] GetLoginData exception -> ConnectTimeout('')
+2026-11-25 20:08:04 [error] [LOGIN FAIL] GetLoginData exception -> ConnectTimeout('')
+2026-11-25 20:08:56 [error] [LOGIN FAIL] GetLoginData exception -> ConnectTimeout('')
+2026-11-25 20:08:56 [error] [LOGIN FAIL] GetLoginData exception -> ConnectTimeout('')
+2026-11-25 20:09:01 [error] [LOGIN FAIL] GetLoginData exception -> ConnectTimeout('')
+2026-11-25 20:09:01 [error] [LOGIN FAIL] GetLoginData exception -> ConnectTimeout('')
+2026-11-25 20:09:17 [info] [🐻 BR-EVO #40] MATCH FOUND নেই (120s) — retry | UID: 19249906780
+2026-11-25 20:09:24 [info] [🐻 BR-EVO #41] Match START sent | UID: 19249906780
+2026-11-25 20:09:47 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:09:47 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:09:52 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:09:52 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:09:52 [info] [🐻 BR-EVO #41] MATCH FOUND নেই (120s) — retry | UID: 19249909656
+2026-11-25 20:09:59 [info] [🐻 BR-EVO #42] Match START sent | UID: 19249909656
+2026-11-25 20:10:15 [info] Account ROBISTLWai8Q finished Match #25
+2026-11-25 20:10:21 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:10:21 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:10:38 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:10:38 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:10:44 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:10:44 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:11:13 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO gateway idle timeout
+2026-11-25 20:11:13 [info] [🐻 BR-EVO] Reconnecting in 2.6s... | UID: 19249906780
+2026-11-25 20:11:18 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO gateway idle timeout
+2026-11-25 20:11:18 [info] [🐻 BR-EVO] Reconnecting in 2.3s... | UID: 19249909656
+2026-11-25 20:11:24 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:11:24 [info] [🐻 BR-EVO] Reconnecting in 2.4s... | UID: 19249906780
+2026-11-25 20:11:28 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:11:28 [info] [🐻 BR-EVO] Reconnecting in 3.0s... | UID: 19249909656
+2026-11-25 20:11:29 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:11:29 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:11:31 [info] Account ROBISTLWai8Q finished Match #26
+2026-11-25 20:11:34 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:11:34 [info] [🐻 BR-EVO] Reconnecting in 4.4s... | UID: 19249906780
+2026-11-25 20:11:35 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:11:35 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:11:37 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:11:37 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:11:39 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:11:39 [info] [🐻 BR-EVO] Reconnecting in 4.2s... | UID: 19249909656
+2026-11-25 20:11:47 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:11:47 [info] [🐻 BR-EVO] Reconnecting in 8.3s... | UID: 19249906780
+2026-11-25 20:11:52 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:11:52 [info] [🐻 BR-EVO] Reconnecting in 9.9s... | UID: 19249909656
+2026-11-25 20:12:03 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:12:03 [info] [🐻 BR-EVO] Reconnecting in 16.4s... | UID: 19249906780
+2026-11-25 20:12:05 [info] Account ROBISTLWai8Q finished Match #27
+2026-11-25 20:12:10 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:12:10 [info] [🐻 BR-EVO] Reconnecting in 16.0s... | UID: 19249909656
+2026-11-25 20:12:11 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:12:11 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:12:20 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:12:20 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:12:26 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:12:26 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:12:28 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:12:28 [info] [🐻 BR-EVO] Reconnecting in 16.1s... | UID: 19249906780
+2026-11-25 20:12:33 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:12:34 [info] [🐻 BR-EVO] Reconnecting in 16.2s... | UID: 19249909656
+2026-11-25 20:12:52 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:12:52 [info] [🐻 BR-EVO] Reconnecting in 15.2s... | UID: 19249906780
+2026-11-25 20:12:58 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:12:58 [info] [🐻 BR-EVO] Reconnecting in 15.5s... | UID: 19249909656
+2026-11-25 20:13:11 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:13:11 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:13:15 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:13:15 [info] [🐻 BR-EVO] Reconnecting in 16.9s... | UID: 19249906780
+2026-11-25 20:13:17 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:13:17 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:13:21 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:13:21 [info] [🐻 BR-EVO] Reconnecting in 16.5s... | UID: 19249909656
+2026-11-25 20:13:40 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:13:40 [info] [🐻 BR-EVO] Reconnecting in 16.7s... | UID: 19249906780
+2026-11-25 20:13:46 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:13:46 [info] [🐻 BR-EVO] Reconnecting in 16.2s... | UID: 19249909656
+2026-11-25 20:14:02 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:14:02 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:14:05 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:14:05 [info] [🐻 BR-EVO] Reconnecting in 17.0s... | UID: 19249906780
+2026-11-25 20:14:08 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:14:08 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:14:10 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:14:10 [info] [🐻 BR-EVO] Reconnecting in 16.8s... | UID: 19249909656
+2026-11-25 20:14:30 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:14:30 [info] [🐻 BR-EVO] Reconnecting in 16.0s... | UID: 19249906780
+2026-11-25 20:14:35 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:14:35 [info] [🐻 BR-EVO] Reconnecting in 15.5s... | UID: 19249909656
+2026-11-25 20:14:53 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:14:53 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:14:54 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:14:54 [info] [🐻 BR-EVO] Reconnecting in 15.3s... | UID: 19249906780
+2026-11-25 20:14:58 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:14:58 [info] [🐻 BR-EVO] Reconnecting in 15.4s... | UID: 19249909656
+2026-11-25 20:14:59 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:14:59 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:15:17 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:15:17 [info] [🐻 BR-EVO] Reconnecting in 15.3s... | UID: 19249906780
+2026-11-25 20:15:22 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:15:22 [info] [🐻 BR-EVO] Reconnecting in 15.8s... | UID: 19249909656
+2026-11-25 20:15:40 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:15:40 [info] [🐻 BR-EVO] Reconnecting in 16.5s... | UID: 19249906780
+2026-11-25 20:15:44 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:15:44 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:15:46 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:15:46 [info] [🐻 BR-EVO] Reconnecting in 15.5s... | UID: 19249909656
+2026-11-25 20:15:50 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:15:50 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:16:03 [info] Account ROBISTv2ww5U finished Match #24
+2026-11-25 20:16:05 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:16:05 [info] [🐻 BR-EVO] Reconnecting in 15.8s... | UID: 19249906780
+2026-11-25 20:16:09 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:16:09 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:16:09 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:16:09 [info] [🐻 BR-EVO] Reconnecting in 16.3s... | UID: 19249909656
+2026-11-25 20:16:28 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:16:34 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:16:35 [info] Account ROBISTv2ww5U finished Match #25
+2026-11-25 20:16:35 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:16:35 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:16:38 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:16:38 [info] [🐻 BR-EVO] Reconnecting in 2.5s... | UID: 19249906780
+2026-11-25 20:16:41 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:16:41 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:16:41 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:16:41 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:16:43 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:16:43 [info] [🐻 BR-EVO] Reconnecting in 2.5s... | UID: 19249909656
+2026-11-25 20:16:48 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:16:48 [info] [🐻 BR-EVO] Reconnecting in 2.8s... | UID: 19249906780
+2026-11-25 20:16:53 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:16:53 [info] [🐻 BR-EVO] Reconnecting in 3.4s... | UID: 19249909656
+2026-11-25 20:16:59 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:16:59 [info] [🐻 BR-EVO] Reconnecting in 4.4s... | UID: 19249906780
+2026-11-25 20:17:05 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:17:05 [info] [🐻 BR-EVO] Reconnecting in 5.0s... | UID: 19249909656
+2026-11-25 20:17:12 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:17:12 [info] [🐻 BR-EVO] Reconnecting in 9.3s... | UID: 19249906780
+2026-11-25 20:17:18 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:17:18 [info] [🐻 BR-EVO] Reconnecting in 9.0s... | UID: 19249909656
+2026-11-25 20:17:26 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:17:26 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:17:29 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:17:29 [info] [🐻 BR-EVO] Reconnecting in 15.9s... | UID: 19249906780
+2026-11-25 20:17:32 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:17:32 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:17:35 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:17:35 [info] [🐻 BR-EVO] Reconnecting in 15.3s... | UID: 19249909656
+2026-11-25 20:17:53 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:17:53 [info] [🐻 BR-EVO] Reconnecting in 15.6s... | UID: 19249906780
+2026-11-25 20:17:58 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:17:58 [info] [🐻 BR-EVO] Reconnecting in 16.8s... | UID: 19249909656
+2026-11-25 20:18:09 [info] Account ROBISTv2ww5U finished Match #26
+2026-11-25 20:18:16 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:18:16 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:18:16 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:18:16 [info] [🐻 BR-EVO] Reconnecting in 16.9s... | UID: 19249906780
+2026-11-25 20:18:22 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:18:22 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:18:23 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:18:23 [info] [🐻 BR-EVO] Reconnecting in 15.1s... | UID: 19249909656
+2026-11-25 20:18:23 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:18:23 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:18:24 [info] Account ROBISTv2ww5U finished Match #27
+2026-11-25 20:18:30 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:18:30 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:18:41 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:18:41 [info] [🐻 BR-EVO] Reconnecting in 15.4s... | UID: 19249906780
+2026-11-25 20:18:46 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:18:46 [info] [🐻 BR-EVO] Reconnecting in 16.3s... | UID: 19249909656
+2026-11-25 20:19:05 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:19:05 [info] [🐻 BR-EVO] Reconnecting in 15.4s... | UID: 19249906780
+2026-11-25 20:19:10 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:19:10 [info] [🐻 BR-EVO] Reconnecting in 15.5s... | UID: 19249909656
+2026-11-25 20:19:13 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:19:13 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:19:19 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:19:19 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:19:28 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:19:28 [info] [🐻 BR-EVO] Reconnecting in 15.4s... | UID: 19249906780
+2026-11-25 20:19:34 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:19:34 [info] [🐻 BR-EVO] Reconnecting in 16.2s... | UID: 19249909656
+2026-11-25 20:19:43 [info] Account ROBISTv2ww5U finished Match #28
+2026-11-25 20:19:50 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:19:50 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:19:52 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:19:52 [info] [🐻 BR-EVO] Reconnecting in 15.3s... | UID: 19249906780
+2026-11-25 20:19:58 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:19:58 [info] [🐻 BR-EVO] Reconnecting in 16.8s... | UID: 19249909656
+2026-11-25 20:19:58 [info] Account ROBISTv2ww5U finished Match #29
+2026-11-25 20:20:04 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:20:04 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:20:10 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:20:10 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:20:10 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:20:10 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:20:15 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:20:15 [info] [🐻 BR-EVO] Reconnecting in 15.1s... | UID: 19249906780
+2026-11-25 20:20:23 [warning] [🐻 BR-EVO] Error (19249909656): BR-EVO TCP timeout
+2026-11-25 20:20:23 [info] [🐻 BR-EVO] Reconnecting in 16.5s... | UID: 19249909656
+2026-11-25 20:20:36 [info] Account ROBISTv2ww5U finished Match #30
+2026-11-25 20:20:38 [warning] [🐻 BR-EVO] Error (19249906780): BR-EVO TCP timeout
+2026-11-25 20:20:38 [info] [🐻 BR-EVO] Reconnecting in 15.2s... | UID: 19249906780
+2026-11-25 20:20:42 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:20:42 [error] [LOGIN FAIL] GetLoginData exception -> ConnectError('[Errno 7] No address associated with hostname')
+2026-11-25 20:20:47 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:20:51 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:20:53 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 20:20:54 [info] [🐻 BR-EVO #43] Match START sent | UID: 19249909656
+2026-11-25 20:20:56 [success] Account ROBISTLWai8Q (19249906780) gained +107 EXP! Total: +2277
+2026-11-25 20:20:56 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:21:00 [info] [🐻 BR-EVO #42] Match START sent | UID: 19249906780
+2026-11-25 20:21:21 [success] [🐻 BR-EVO #42] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125603253111752705 | 103.219.203.41:10018
+2026-11-25 20:21:22 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.203.41:10018
+2026-11-25 20:21:22 [success] [🐻 BR-EVO #42] Match joined! Active: 1/10 | UID: 19249906780
+2026-11-25 20:21:22 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 20:21:23 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 20:21:30 [info] [🐻 BR-EVO #43] Match START sent | UID: 19249906780
+2026-11-25 20:21:37 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:21:41 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:21:56 [success] [🐻 BR-EVO #43] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125603399912392706 | 103.219.202.188:10016
+2026-11-25 20:21:57 [success] [🐻 BR-EVO #43] Match joined! Active: 1/10 | UID: 19249909656
+2026-11-25 20:21:57 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:21:58 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.202.188:10016
+2026-11-25 20:21:59 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:22:06 [info] [🐻 BR-EVO #44] Match START sent | UID: 19249909656
+2026-11-25 20:22:22 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:22:26 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:22:45 [success] [🐻 BR-EVO #44] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125603604380311552 | 103.219.200.216:10017
+2026-11-25 20:22:45 [success] [🐻 BR-EVO #44] Match joined! Active: 2/10 | UID: 19249909656
+2026-11-25 20:22:45 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.200.216:10017
+2026-11-25 20:22:45 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:22:47 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:22:54 [info] [🐻 BR-EVO #45] Match START sent | UID: 19249909656
+2026-11-25 20:23:07 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:23:11 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:23:19 [success] [🐻 BR-EVO #43] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125603747746015232 | 103.219.202.70:10018
+2026-11-25 20:23:19 [success] [🐻 BR-EVO #43] Match joined! Active: 2/10 | UID: 19249906780
+2026-11-25 20:23:19 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.202.70:10018
+2026-11-25 20:23:20 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 20:23:21 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 20:23:28 [info] [🐻 BR-EVO #44] Match START sent | UID: 19249906780
+2026-11-25 20:23:29 [success] [🐻 BR-EVO #44] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125603790150432768 | 103.219.201.129:10017
+2026-11-25 20:23:29 [success] [🐻 BR-EVO #44] Match joined! Active: 3/10 | UID: 19249906780
+2026-11-25 20:23:30 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.201.129:10017
+2026-11-25 20:23:30 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 20:23:31 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 20:23:38 [success] [🐻 BR-EVO #45] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125603827013974016 | 103.16.34.61:10016
+2026-11-25 20:23:38 [info] [🐻 BR-EVO #45] Match START sent | UID: 19249906780
+2026-11-25 20:23:38 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.16.34.61:10016
+2026-11-25 20:23:39 [success] [🐻 BR-EVO #45] Match joined! Active: 3/10 | UID: 19249909656
+2026-11-25 20:23:39 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:23:39 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:23:46 [info] [🐻 BR-EVO #46] Match START sent | UID: 19249909656
+2026-11-25 20:23:49 [success] [🐻 BR-EVO #45] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125603874032318464 | 103.219.201.46:10018
+2026-11-25 20:23:50 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.201.46:10018
+2026-11-25 20:23:50 [success] [🐻 BR-EVO #45] Match joined! Active: 4/10 | UID: 19249906780
+2026-11-25 20:23:50 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 20:23:50 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 20:23:53 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:23:56 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:23:57 [info] [🐻 BR-EVO #46] Match START sent | UID: 19249906780
+2026-11-25 20:24:12 [success] [🐻 BR-EVO #46] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125603970979471360 | 103.219.200.18:10017
+2026-11-25 20:24:13 [success] [🐻 BR-EVO #46] Match joined! Active: 4/10 | UID: 19249909656
+2026-11-25 20:24:13 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.200.18:10017
+2026-11-25 20:24:13 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:24:13 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:24:14 [success] [🐻 BR-EVO #46] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125603978889918465 | 103.219.200.49:10017
+2026-11-25 20:24:14 [success] [🐻 BR-EVO #46] Match joined! Active: 5/10 | UID: 19249906780
+2026-11-25 20:24:15 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.200.49:10017
+2026-11-25 20:24:15 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 20:24:15 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 20:24:20 [info] [🐻 BR-EVO #47] Match START sent | UID: 19249909656
+2026-11-25 20:24:22 [info] [🐻 BR-EVO #47] Match START sent | UID: 19249906780
+2026-11-25 20:24:30 [success] [🐻 BR-EVO #47] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125604044878895104 | 103.219.202.212:10017
+2026-11-25 20:24:31 [success] [🐻 BR-EVO #47] Match joined! Active: 6/10 | UID: 19249906780
+2026-11-25 20:24:31 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.202.212:10017
+2026-11-25 20:24:31 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 20:24:33 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 20:24:38 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:24:40 [info] [🐻 BR-EVO #48] Match START sent | UID: 19249906780
+2026-11-25 20:24:42 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:24:52 [success] [🐻 BR-EVO #48] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125604138760019968 | 103.219.200.165:10016
+2026-11-25 20:24:53 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.200.165:10016
+2026-11-25 20:24:53 [success] [🐻 BR-EVO #48] Match joined! Active: 7/10 | UID: 19249906780
+2026-11-25 20:24:53 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 20:24:54 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 20:24:54 [success] [🐻 BR-EVO #47] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125604146192312321 | 103.16.33.22:10016
+2026-11-25 20:24:54 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.16.33.22:10016
+2026-11-25 20:24:55 [success] [🐻 BR-EVO #47] Match joined! Active: 5/10 | UID: 19249909656
+2026-11-25 20:24:55 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:24:55 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:25:01 [info] [🐻 BR-EVO #49] Match START sent | UID: 19249906780
+2026-11-25 20:25:02 [info] [🐻 BR-EVO #48] Match START sent | UID: 19249909656
+2026-11-25 20:25:19 [success] [🐻 BR-EVO #49] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125604251465146368 | 103.219.203.121:10018
+2026-11-25 20:25:19 [success] [🐻 BR-EVO #49] Match joined! Active: 8/10 | UID: 19249906780
+2026-11-25 20:25:20 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.203.121:10018
+2026-11-25 20:25:20 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 20:25:21 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 20:25:21 [success] [🐻 BR-EVO #48] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125604258838722560 | 103.219.200.141:10018
+2026-11-25 20:25:21 [success] [🐻 BR-EVO #48] Match joined! Active: 6/10 | UID: 19249909656
+2026-11-25 20:25:21 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.200.141:10018
+2026-11-25 20:25:22 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:25:23 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:25:23 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:25:27 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:25:28 [info] [🐻 BR-EVO #50] Match START sent | UID: 19249906780
+2026-11-25 20:25:29 [success] [🐻 BR-EVO #50] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125604293479495681 | 103.219.201.216:10017
+2026-11-25 20:25:29 [success] [🐻 BR-EVO #50] Match joined! Active: 9/10 | UID: 19249906780
+2026-11-25 20:25:30 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.201.216:10017
+2026-11-25 20:25:30 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 20:25:30 [info] [🐻 BR-EVO #49] Match START sent | UID: 19249909656
+2026-11-25 20:25:31 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 20:25:38 [info] [🐻 BR-EVO #51] Match START sent | UID: 19249906780
+2026-11-25 20:26:08 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:26:12 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:26:26 [success] [🐻 BR-EVO #51] MATCH FOUND → UDP spawned | UID: 19249906780 | match 2125604532382861313 | 103.219.201.151:10015
+2026-11-25 20:26:26 [success] [🐻 BR-EVO #51] Match joined! Active: 10/10 | UID: 19249906780
+2026-11-25 20:26:28 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249906780 | 103.219.201.151:10015
+2026-11-25 20:26:28 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249906780
+2026-11-25 20:26:29 [success] [🐻 BR-EVO] TCP Connected | UID: 19249906780 | 202.181.79.1:39699
+2026-11-25 20:26:32 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 20:26:48 [success] [🐻 BR-EVO #49] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125604625475446785 | 103.219.202.164:10018
+2026-11-25 20:26:49 [success] [🐻 BR-EVO #49] Match joined! Active: 7/10 | UID: 19249909656
+2026-11-25 20:26:49 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:26:50 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.202.164:10018
+2026-11-25 20:26:52 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:26:53 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:26:57 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:26:59 [info] [🐻 BR-EVO #50] Match START sent | UID: 19249909656
+2026-11-25 20:27:17 [success] [🐻 BR-EVO #50] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125604746950877185 | 103.16.33.197:10018
+2026-11-25 20:27:17 [success] [🐻 BR-EVO #50] Match joined! Active: 8/10 | UID: 19249909656
+2026-11-25 20:27:18 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.16.33.197:10018
+2026-11-25 20:27:18 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:27:20 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:27:27 [info] [🐻 BR-EVO #51] Match START sent | UID: 19249909656
+2026-11-25 20:27:32 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 20:27:34 [success] [🐻 BR-EVO #51] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125604817704574978 | 103.219.202.122:10015
+2026-11-25 20:27:35 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.202.122:10015
+2026-11-25 20:27:35 [success] [🐻 BR-EVO #51] Match joined! Active: 9/10 | UID: 19249909656
+2026-11-25 20:27:35 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:27:36 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:27:39 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:27:42 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:27:43 [info] [🐻 BR-EVO #52] Match START sent | UID: 19249909656
+2026-11-25 20:28:05 [success] [🐻 BR-EVO #52] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125604946565980160 | 103.219.202.188:10015
+2026-11-25 20:28:05 [success] [🐻 BR-EVO #52] Match joined! Active: 10/10 | UID: 19249909656
+2026-11-25 20:28:05 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.202.188:10015
+2026-11-25 20:28:05 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:28:07 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:28:10 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 20:28:24 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:28:28 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:28:32 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 20:29:09 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:29:10 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 20:29:13 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:29:32 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 20:29:54 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:29:58 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:30:10 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 20:30:32 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 20:30:39 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2054
+2026-11-25 20:30:43 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:31:10 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 20:31:25 [success] Account ROBISTv2ww5U (19249909656) gained +92 EXP! Total: +2098
+2026-11-25 20:31:25 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2146
+2026-11-25 20:31:29 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:31:33 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 20:32:10 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2146
+2026-11-25 20:32:10 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 20:32:14 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2325
+2026-11-25 20:32:20 [info] [🐻 BR-EVO] [UDP] ম্যাচ শেষ (Cmd 103) | UID 19249909656
+2026-11-25 20:32:20 [info] Account ROBISTv2ww5U finished Match #31
+2026-11-25 20:32:21 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2146
+2026-11-25 20:32:25 [info] [🐻 BR-EVO #53] Match START sent | UID: 19249909656
+2026-11-25 20:32:33 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249906780
+2026-11-25 20:32:49 [success] [🐻 BR-EVO #53] MATCH FOUND → UDP spawned | UID: 19249909656 | match 2125606138918723584 | 103.219.201.10:10018
+2026-11-25 20:32:50 [success] [🐻 BR-EVO #53] Match joined! Active: 10/10 | UID: 19249909656
+2026-11-25 20:32:50 [success] [🐻 BR-EVO] [UDP] ম্যাচে জয়েন সম্পন্ন | UID 19249909656 | 103.219.201.10:10018
+2026-11-25 20:32:50 [info] [🐻 BR-EVO] TCP gateway cycling for next search | UID: 19249909656
+2026-11-25 20:32:51 [success] [🐻 BR-EVO] TCP Connected | UID: 19249909656 | 202.181.79.132:39699
+2026-11-25 20:32:54 [info] [🐻 BR-EVO] Slot cap (10/10) — TCP gateway ON, waiting for free slot | UID: 19249909656
+2026-11-25 20:32:55 [success] Account ROBISTv2ww5U (19249909656) gained +85 EXP! Total: +2183
+2026-11-25 20:32:55 [info] [EXP-REFRESH] UID 19249909656 -> Level: 6, EXP: 2231
+2026-11-25 20:32:59 [success] Account ROBISTLWai8Q (19249906780) gained +91 EXP! Total: +2368
+2026-11-25 20:32:59 [info] [EXP-REFRESH] UID 19249906780 -> Level: 6, EXP: 2416
